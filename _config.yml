@@ -11,9 +11,10 @@ markdown: kramdown
 ### content configuration ###
 title:       "Dynamic Adversarial Data Collection"
 keywords:    ""
-description: "The First Workshop on Dynamic Adversarial Data Collection (DADC) at NAACL 2022"
-favicon:     #put a path like: "img/favicon.ico"
-touch_icon:  #put a path like: "img/apple-touch-icon.png"
+description: "The First Workshop on Dynamic Adversarial Data Collection (DADC) at NAACL 2022 in Seattle, Washington."
+logo:     "img/logo.png"
+favicon:     "img/favicon/favicon.ico"
+touch_icon:  "img/favicon/apple-touch-icon.png"
 
 collections:
   - pages_2022
