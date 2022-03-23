@@ -1,7 +1,7 @@
 # The DADC Shared Task
 The DADC Shared Task this year will focus on the Extractive Question Answering (QA) task. We hope to expand to other NLP-related tasks in future iterations of the competition.
 
-Register your team's interest in participating [here](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/){:target="_blank"}.
+Register your team's interest in participating [here](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform){:target="_blank"}.
 
 
 ## How to Participate
@@ -9,7 +9,7 @@ Register your team's interest in participating [here](https://docs.google.com/fo
 Participants will submit 100 "official" question answering (QA) examples through the [Dynabench](https://dynabench.org/tasks/qa){:target="_blank"} platform. The collected dataset will form parts of the evaluation set for Tracks 2 and 3. The objective is to find as many model-fooling examples as possible -- the winning team will be the one with the highest validated model error rate (vMER).
 
 #### Participation Instructions
-1. Create an "official" Dynabench account for your team (and share your account username with us when filling out the [Team Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/){:target="_blank"}).
+1. Create an "official" Dynabench account for your team (and share your account username with us when filling out the [Team Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform){:target="_blank"}).
 1. Test out [Dynabench QA Interface](https://dynabench.org/tasks/qa/create){:target="_blank"}. **Important: DO NOT use your "official" shared task account for this. We recommend that you either create personal test accounts or switch to Sandbox mode in the interface.**. You are free to interact with the model as often as you like from your *test* accounts to try to identify model failure patterns.
 1. The actual submission will occur over a 2-week *Track 1 Example Creation* window. The organisers will provide a new set of annotation passages, but you will be competing against the [current best QA model](https://dynabench.org/models/109) which will remain the same as during the previous testing phase. Some rules regarding the official submission phase:
     * You should only submit **100** examples from your *official* participation account. If you submit more than 100, only the first 100 will be taken into consideration.
@@ -55,7 +55,7 @@ To facilitate participation in this task, **we make a variety of resources avail
 The workshop organisers have pre-specified a set of evaluation weights for the [Dynabench](https://dynabench.org/tasks/qa){:target="_blank"} QA leaderboard. Participants can train any models on any data and submit their models directly to [Dynabench](https://dynabench.org/tasks/qa){:target="_blank"}. The team with the highest **dynascore** will be considered the winner.
 
 #### Participation Instructions
-1. Create an "official" Dynabench account for your team (and share your account username with us when filling out the [Team Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/){:target="_blank"}).
+1. Create an "official" Dynabench account for your team (and share your account username with us when filling out the [Team Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform){:target="_blank"}).
 1. You may train any models on whatever data you want.
 1. Models should be submitted directly to [Dynabench](https://dynabench.org/tasks/qa){:target="_blank"} using [Dynalab](https://github.com/facebookresearch/dynalab){:target="_blank"}.
 1. The official **dynaboard evaluation weights** we will use are:
@@ -96,7 +96,7 @@ The team with the highest number of points overall will be the **DADC Shared Tas
 
 | <!-- -->              | <!-- -->                                               |
 |:----------------------|:-------------------------------------------------------|
-| **April 25, 2022**    | [Team Registration](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/){:target="_blank"} Deadline |
+| **April 25, 2022**    | [Team Registration](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform){:target="_blank"} Deadline |
 | **May 2 - 15, 2022**  | Official Example Creation Window for [Track 1](/shared-task.html#track-1-better-annotators)     |
 | **June 3, 2022**       | [Track 2](/shared-task.html#track-2-better-training-data) Submission Deadline          |
 | **June 3, 2022**       | [Track 3](/shared-task.html#track-3-better-models) Submission Deadline          |
