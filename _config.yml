@@ -15,6 +15,7 @@ description: "The First Workshop on Dynamic Adversarial Data Collection (DADC) a
 logo:     "img/logo.png"
 favicon:     "img/favicon/favicon.ico"
 touch_icon:  "img/favicon/apple-touch-icon.png"
+google_analytics: "G-KRG38PMVXV"
 
 collections:
   - pages_2022

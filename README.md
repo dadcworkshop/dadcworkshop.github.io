@@ -2,6 +2,8 @@
 
 Website coming soon, please stay tuned!
 
+This website is built using the Jekyll minimal theme: https://github.com/pages-themes/minimal
+
 ## Build instructions
 
 1. Install docker and docker-compose
