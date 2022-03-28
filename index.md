@@ -24,8 +24,7 @@ The workshop organisers have pre-specified a set of evaluation weights for the [
 ### Overall
 Teams can choose to participate on individual tracks only. To further encourage the formation of diverse teams working on a range of challenges, we will also have an overall DADC Shared Task Winning Team based on performance across all 3 tracks.
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform" method="get" target="_blank"><button class="btn btn-success" type="submit">Sign up!</button></form>
-<br />
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform" method="get" target="_blank"><button class="btn btn-success" type="submit">Sign up</button></form>
 <br />
 
 ## Important Dates (Paper Submission)
