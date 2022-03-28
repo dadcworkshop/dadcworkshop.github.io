@@ -5,6 +5,28 @@
 * **March 23, 2022**: The DADC Shared Task [Call for Participation](/shared-task.html) is now live! To register your team's interest, fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform){:target="_blank"}.
 * **February 14, 2022**: See our [Call for Papers here](/call-for-papers.html)!
 
+## The DADC Shared Task
+The DADC Shared Task this year will focus on the Extractive Question Answering (QA) task. We have three (3) tracks focusing on better annotators, better training data and better models.
+
+**Specific details and a call for participation can be found [here](/shared-task.html). Here's a quick overview:** 
+
+### Track 1: Better Annotators
+Participants will submit 100 "official" question answering (QA) examples through the [Dynabench](https://dynabench.org/tasks/qa){:target="_blank"} platform. The collected dataset will form parts of the evaluation set for Tracks 2 and 3. The objective is to find as many model-fooling examples as possible -- the winning team will be the one with the highest validated model error rate (vMER).
+
+If you think you have what it takes to fool our best AI model, [sign up](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform){:target="_blank"} today!
+
+### Track 2: Better Training Data
+In this data-centric track, participants will submit 10,000 **training** examples (in SQuAD v1.1 JSON format, see [https://huggingface.co/datasets/adversarial_qa#dataset-structure](https://huggingface.co/datasets/adversarial_qa#dataset-structure){:target="_blank"}). These examples can be selected from existing datasets, expert-annotated, crowdsourced, or synthetically-generated. The workshop organisers will then train ELECTRA-Large models and evaluate them on the data collected in Track 1. The team with the highest word-overlap F1 score on the test set will be considered the winner.    
+
+### Track 3: Better Models
+The workshop organisers have pre-specified a set of evaluation weights for the [Dynabench](https://dynabench.org/tasks/qa){:target="_blank"} QA leaderboard. Participants can train any models on any data and submit their models directly to [Dynabench](https://dynabench.org/tasks/qa){:target="_blank"}. The team with the highest **dynascore** will be considered the winner.
+
+### Overall
+Teams can choose to participate on individual tracks only. To further encourage the formation of diverse teams working on a range of challenges, we will also have an overall DADC Shared Task Winning Team based on performance across all 3 tracks.
+
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform" method="get" target="_blank"><button type="submit">Sign up</button></form>
+
+
 ## Important Dates (Paper Submission)
 
 | <!-- -->              | <!-- -->                                               |
@@ -30,23 +52,6 @@
 | **June 17, 2022**       | Results Announced          |
 | **June 24, 2022**       | System Description Paper Camera-Ready Deadline          |
 | **July 14-15, 2022**  | Workshop Dates & Overall Winning Team Announcement 🏆   |
-
-## Overview of DADC Shared Task
-The DADC Shared Task this year will focus on the Extractive Question Answering (QA) task. We hope to expand to other NLP-related tasks in future iterations of the competition.
-
-**Specific details and a call for participation can be found [here](/shared-task.html). Here's a quick overview:** 
-
-### Track 1: Better Annotators
-Participants will submit 100 "official" question answering (QA) examples through the [Dynabench](https://dynabench.org/tasks/qa){:target="_blank"} platform. The collected dataset will form parts of the evaluation set for Tracks 2 and 3. The objective is to find as many model-fooling examples as possible -- the winning team will be the one with the highest validated model error rate (vMER). 
-
-### Track 2: Better Training Data
-In this data-centric track, participants will submit 10,000 **training** examples (in SQuAD v1.1 JSON format, see [https://huggingface.co/datasets/adversarial_qa#dataset-structure](https://huggingface.co/datasets/adversarial_qa#dataset-structure){:target="_blank"}). These examples can be selected from existing datasets, expert-annotated, crowdsourced, or synthetically-generated. The workshop organisers will then train ELECTRA-Large models and evaluate them on the data collected in Track 1. The team with the highest word-overlap F1 score on the test set will be considered the winner.    
-
-### Track 3: Better Models
-The workshop organisers have pre-specified a set of evaluation weights for the [Dynabench](https://dynabench.org/tasks/qa){:target="_blank"} QA leaderboard. Participants can train any models on any data and submit their models directly to [Dynabench](https://dynabench.org/tasks/qa){:target="_blank"}. The team with the highest **dynascore** will be considered the winner.
-
-### Overall
-Teams can choose to participate on individual tracks only. To further encourage the formation of diverse teams working on a range of challenges, we will also have an overall DADC Shared Task Winning Team based on performance across all 3 tracks.
 
 
 ## Organizers
