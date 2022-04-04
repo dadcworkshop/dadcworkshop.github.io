@@ -35,6 +35,7 @@ The paper commitment page for work already having ARR reviews will be coming sho
 Papers should follow the official [*ACL Paper Styles](https://github.com/acl-org/acl-style-files){:target="_blank"} and [paper formatting guidelines](https://acl-org.github.io/ACLPUB/formatting.html#paper-format){:target="_blank"} (also see [Overleaf template](https://www.overleaf.com/read/crtcwgxzjskr){:target="_blank"}).
 
 For more information, refer to the [Call for Papers](/call-for-papers.html) page.
+<br />
 
 ## Important Dates (Paper Submission)
 
@@ -61,6 +62,7 @@ For more information, refer to the [Call for Papers](/call-for-papers.html) page
 | **June 17, 2022**       | Results Announced          |
 | **June 24, 2022**       | System Description Paper Camera-Ready Deadline          |
 | **July 14-15, 2022**  | Workshop Dates & Overall Winning Team Announcement 🏆   |
+<br />
 
 
 ## Organizers
