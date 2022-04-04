@@ -24,10 +24,13 @@ Building on this interest in the community, we would like to invite researchers 
 
 We will have an archival track as well as a non-archival track. Archival track submissions either go through a standard double-blind review process, or can be submitted with ARR reviews. The non-archival track seeks recently published work -- it does not need to be anonymized and will not go through the review process. The submission should clearly indicate the original venue and will be accepted if the committee thinks the work will benefit from exposure to the workshop audience. Non-archival papers will not be included in the workshop proceedings. For archival and non-archival papers, we accept short papers (4 pages of content + references) and long papers (8 pages of content + references).
 
+The [OpenReview DADC workshop page](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/DADC){:target="_blank"} is now open and accepting paper submissions.
+Papers should follow the official [*ACL Paper Styles](https://github.com/acl-org/acl-style-files){:target="_blank"} and [paper formatting guidelines](https://acl-org.github.io/ACLPUB/formatting.html#paper-format){:target="_blank"} (also see [Overleaf template](https://www.overleaf.com/read/crtcwgxzjskr){:target="_blank"}).
+
 
 ### DADC Shared Task
 
-We will also be running a Shared Task competition focused on better annotation, better training data and better models. The call for participation will be issued in the coming weeks. Stay tuned!
+We will also be running a Shared Task competition focused on better annotation, better training data and better models. For more information, see our [Call for Participation](/shared-task.html).
 
 
 ### Important Dates

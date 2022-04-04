@@ -28,6 +28,14 @@ Teams can choose to participate on individual tracks only. To further encourage 
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform" method="get" target="_blank"><button class="btn btn-success" type="submit">Sign up</button></form>
 <br />
 
+## Submission Information
+
+The [OpenReview DADC workshop page](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/DADC){:target="_blank"} is now open and accepting paper submissions. 
+The paper commitment page for work already having ARR reviews will be coming shortly.
+Papers should follow the official [*ACL Paper Styles](https://github.com/acl-org/acl-style-files){:target="_blank"} and [paper formatting guidelines](https://acl-org.github.io/ACLPUB/formatting.html#paper-format){:target="_blank"} (also see [Overleaf template](https://www.overleaf.com/read/crtcwgxzjskr){:target="_blank"}).
+
+For more information, refer to the [Call for Papers](/call-for-papers.html) page.
+
 ## Important Dates (Paper Submission)
 
 | <!-- -->              | <!-- -->                                               |
@@ -126,3 +134,10 @@ Teams can choose to participate on individual tracks only. To further encourage 
 ## Contact
 
 Please join our [mailing list](https://groups.google.com/u/0/g/dadc-workshop){:target="_blank"} to get important updates. If you have any questions, please contact `dadc-workshop@googlegroups.com`.
+
+<hr />
+
+## Sponsors
+We would like to thank our generous sponsors for their help and support.
+
+<a href="https://ai.facebook.com/" target="_blank"><img src="https://scontent.fltn2-1.fna.fbcdn.net/v/t39.2365-6/261808793_1082281822528512_588598751091579214_n.png?_nc_cat=101&ccb=1-5&_nc_sid=ad8a9d&_nc_ohc=wG6IMCvqiEoAX-1Sj_f&_nc_ht=scontent.fltn2-1.fna&oh=00_AT_bRvgTsH7lPKKjr7X5lhX1aa3WhZANho6ykI2-BUj-qA&oe=6250AF6D" /></a>
