@@ -27,6 +27,7 @@ We will have an archival track as well as a non-archival track. Archival track s
 The [OpenReview DADC workshop page](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/DADC){:target="_blank"} is now open and accepting paper submissions.
 Papers should follow the official [*ACL Paper Styles](https://github.com/acl-org/acl-style-files){:target="_blank"} and [paper formatting guidelines](https://acl-org.github.io/ACLPUB/formatting.html#paper-format){:target="_blank"} (also see [Overleaf template](https://www.overleaf.com/read/crtcwgxzjskr){:target="_blank"}).
 
+To submit your paper, please see the [OpenReview DADC workshop page](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/DADC){:target="_blank"}.
 
 ### DADC Shared Task
 
