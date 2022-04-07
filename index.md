@@ -62,6 +62,7 @@ For more information, refer to the [Call for Papers](/call-for-papers.html) page
 | **June 17, 2022**       | Results Announced          |
 | **June 24, 2022**       | System Description Paper Camera-Ready Deadline          |
 | **July 14-15, 2022**  | Workshop Dates & Overall Winning Team Announcement 🏆   |
+
 <br />
 
 
