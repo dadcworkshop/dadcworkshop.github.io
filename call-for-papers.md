@@ -29,6 +29,11 @@ Papers should follow the official [*ACL Paper Styles](https://github.com/acl-org
 
 To submit your paper, please see the [OpenReview DADC workshop page](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/DADC){:target="_blank"}.
 
+##### Submitting through OpenReview
+* Papers requiring peer review: please use the **"NAACL 2022 Workshop DADC Submission"** button
+* Papers with ARR reviews: please use the **"NAACL 2022 Workshop DADC Commitment Submission"** button
+<br />
+
 ### DADC Shared Task
 
 We will also be running a Shared Task competition focused on better annotation, better training data and better models. For more information, see our [Call for Participation](/shared-task.html).
