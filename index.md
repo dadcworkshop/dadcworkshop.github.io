@@ -2,6 +2,7 @@
 -----------------------------------------------------------------------------
 
 ## Latest News: 
+* **April 7, 2022**: Following extensions by other NAACL workshops, we have also decided to extend the submission deadline for papers from April 8 to April 15. We look forward to your submissions! Submit at [https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/DADC](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/DADC){:target="_blank"}. 
 * **March 29, 2022**: The [OpenReview DADC workshop page](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/DADC){:target="_blank"} is now open and accepting paper submissions!
 * **March 23, 2022**: The DADC Shared Task [Call for Participation](/shared-task.html) is now live! To register your team's interest, fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform){:target="_blank"}.
 * **February 14, 2022**: See our [Call for Papers here](/call-for-papers.html)!
@@ -39,15 +40,15 @@ For more information, refer to the [Call for Papers](/call-for-papers.html) page
 
 ## Important Dates (Paper Submission)
 
-| <!-- -->              | <!-- -->                                               |
-|:----------------------|:-------------------------------------------------------|
-| **February 14, 2022** | First [Call for Workshop Papers](call-for-papers.html) |
-| **April 8, 2022**     | Submission deadline (papers requiring peer review)     |
-| **May 1, 2022**       | Submission deadline (papers with ARR reviews)          |
-| **May 1, 2022**       | Submission deadline (non-archival papers)              |
-| **May 6, 2022**       | Notification of Acceptance                             |
-| **May 20, 2022**      | Camera-ready Papers Due                                |
-| **July 14-15, 2022**  | Workshop Dates at NAACL 2022                           |
+| <!-- -->                                           | <!-- -->                                               |
+|:---------------------------------------------------|:-------------------------------------------------------|
+| **February 14, 2022**                              | First [Call for Workshop Papers](call-for-papers.html) |
+| <del>April 8</del> **<ins>April 15</ins>, 2022**   | Submission deadline (papers requiring peer review)     |
+| **May 1, 2022**                                    | Submission deadline (papers with ARR reviews)          |
+| **May 1, 2022**                                    | Submission deadline (non-archival papers)              |
+| **May 6, 2022**                                    | Notification of Acceptance                             |
+| **May 20, 2022**                                   | Camera-ready Papers Due                                |
+| **July 14-15, 2022**                               | Workshop Dates at NAACL 2022                           |
 
 ## Important Dates (Shared Task)
 

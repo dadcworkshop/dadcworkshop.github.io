@@ -36,14 +36,14 @@ We will also be running a Shared Task competition focused on better annotation, 
 
 ### Important Dates
 
-| <!-- -->             | <!-- -->                                             |
-|:---------------------|:-----------------------------------------------------|
-| **April 8, 2022**    | Submission deadline (papers requiring peer review)   |
-| **May 1, 2022**      | Submission deadline (papers with ARR reviews)        |
-| **May 1, 2022**      | Submission deadline (non-archival papers)            |
-| **May 6, 2022**      | Notification of Acceptance                           |
-| **May 20, 2022**     | Camera-ready Papers Due                              |
-| **July 14-15, 2022** | Workshop Dates at NAACL 2022                         |
+| <!-- -->                                           | <!-- -->                                             |
+|:---------------------------------------------------|:-----------------------------------------------------|
+| <del>April 8</del> **<ins>April 15</ins>, 2022**   | Submission deadline (papers requiring peer review)   |
+| **May 1, 2022**                                    | Submission deadline (papers with ARR reviews)        |
+| **May 1, 2022**                                    | Submission deadline (non-archival papers)            |
+| **May 6, 2022**                                    | Notification of Acceptance                           |
+| **May 20, 2022**                                   | Camera-ready Papers Due                              |
+| **July 14-15, 2022**                               | Workshop Dates at NAACL 2022                         |
 
 All deadlines are 11:59pm AOE (anywhere on earth).
 
