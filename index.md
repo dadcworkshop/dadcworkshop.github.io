@@ -150,4 +150,4 @@ We would like to thank our generous sponsors for their help and support.
 
 ### Gold Sponsors
 
-<a href="https://ai.facebook.com/" target="_blank"><img src="/img/meta_logo.png"  width="300px"/></a>⏎ 
+<a href="https://ai.facebook.com/" target="_blank"><img src="/img/meta_logo.png"  width="300px"/></a>
