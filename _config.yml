@@ -17,6 +17,9 @@ favicon:     "img/favicon/favicon.ico"
 touch_icon:  "img/favicon/apple-touch-icon.png"
 google_analytics: "G-KRG38PMVXV"
 
+social:
+  twitter: "DADCworkshop"
+
 collections:
   - pages_2022
 
