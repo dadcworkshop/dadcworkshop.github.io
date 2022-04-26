@@ -96,7 +96,7 @@ The team with the highest number of points overall will be the **DADC Shared Tas
 
 | <!-- -->              | <!-- -->                                               |
 |:----------------------|:-------------------------------------------------------|
-| **April 25, 2022**    | [Team Registration](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform){:target="_blank"} Deadline |
+| <del>April 25</del> **<ins>May 15</ins>, 2022**   | [Team Registration](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform){:target="_blank"} Deadline |
 | **May 2 - 15, 2022**  | Official Example Creation Window for [Track 1](/shared-task.html#track-1-better-annotators)     |
 | **June 3, 2022**       | [Track 2](/shared-task.html#track-2-better-training-data) Submission Deadline          |
 | **June 3, 2022**       | [Track 3](/shared-task.html#track-3-better-models) Submission Deadline          |

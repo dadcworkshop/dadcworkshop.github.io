@@ -2,6 +2,8 @@
 -----------------------------------------------------------------------------
 
 ## Latest News: 
+* **April 25, 2022**: The DADC Shared Task [registration](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform){:target="_blank"} deadline has been extended to May 15, 2022. [Sign up](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform){:target="_blank"} today!
+* **April 22, 2022**: We are delighted to announce that the awesome folks at [MLCommons](https://mlcommons.org/en/){:target="_blank"} will be sponsoring the DADC workshop! Their support will allow us to award prizes for the [shared task](shared-task.html) winners as well as a best paper award 🏆!
 * **April 7, 2022**: Following extensions by other NAACL workshops, we have also decided to extend the submission deadline for papers from April 8 to April 15. We look forward to your submissions! Submit at [https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/DADC](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/DADC){:target="_blank"}. 
 * **March 29, 2022**: The [OpenReview DADC workshop page](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/DADC){:target="_blank"} is now open and accepting paper submissions!
 * **March 23, 2022**: The DADC Shared Task [Call for Participation](/shared-task.html) is now live! To register your team's interest, fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform){:target="_blank"}.
@@ -52,17 +54,17 @@ For more information, refer to the [Call for Papers](/call-for-papers.html) page
 
 ## Important Dates (Shared Task)
 
-| <!-- -->             | <!-- -->                                                                                                                                            |
-| :------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **April 25, 2022**   | [Team Registration](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform){:target="_blank"} Deadline |
-| **May 2 - 15, 2022** | Official Example Creation Window for [Track 1](/shared-task.html#track-1-better-annotators)                                                         |
-| **June 3, 2022**     | [Track 2](/shared-task.html#track-2-better-training-data) Submission Deadline                                                                       |
-| **June 3, 2022**     | [Track 3](/shared-task.html#track-3-better-models) Submission Deadline                                                                              |
-| **June 10, 2022**    | System Description Paper (Optional) Submission Deadline                                                                                             |
-| **June 17, 2022**    | System Description Paper Notification of Acceptance                                                                                                 |
-| **June 17, 2022**    | Results Announced                                                                                                                                   |
-| **June 24, 2022**    | System Description Paper Camera-Ready Deadline                                                                                                      |
-| **July 14-15, 2022** | Workshop Dates & Overall Winning Team Announcement 🏆                                                                                                |
+| <!-- -->                                        | <!-- -->                                                                                                                                            |
+|:------------------------------------------------| :-------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <del>April 25</del> **<ins>May 15</ins>, 2022** | [Team Registration](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform){:target="_blank"} Deadline |
+| **May 2 - 15, 2022**                            | Official Example Creation Window for [Track 1](/shared-task.html#track-1-better-annotators)                                                         |
+| **June 3, 2022**                                | [Track 2](/shared-task.html#track-2-better-training-data) Submission Deadline                                                                       |
+| **June 3, 2022**                                | [Track 3](/shared-task.html#track-3-better-models) Submission Deadline                                                                              |
+| **June 10, 2022**                               | System Description Paper (Optional) Submission Deadline                                                                                             |
+| **June 17, 2022**                               | System Description Paper Notification of Acceptance                                                                                                 |
+| **June 17, 2022**                               | Results Announced                                                                                                                                   |
+| **June 24, 2022**                               | System Description Paper Camera-Ready Deadline                                                                                                      |
+| **July 14-15, 2022**                            | Workshop Dates & Overall Winning Team Announcement 🏆                                                                                                |
 
 <br />
 
@@ -146,8 +148,8 @@ We would like to thank our generous sponsors for their help and support.
 
 ### Platinum Sponsors
 
-<a href="https://mlcommons.org/en/" target="_blank"><img src="/img/mlc_logo.png" width="300px" /></a>
+<a href="https://mlcommons.org/en/" target="_blank"><img src="/img/mlc_logo.png" width="320px" /></a>
 
 ### Gold Sponsors
 
-<a href="https://ai.facebook.com/" target="_blank"><img src="/img/meta_logo.png"  width="300px"/></a>
+<a href="https://ai.facebook.com/" target="_blank"><img src="/img/meta_logo.png"  width="240px"/></a>
