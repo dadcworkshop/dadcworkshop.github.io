@@ -2,6 +2,7 @@
 -----------------------------------------------------------------------------
 
 ## Latest News: 
+* **May 2, 2022**: The Official Example Creation Window for [Track 1](/shared-task.html#track-1-better-annotators) is now live on the [Dynabench](https://dynabench.org/tasks/qa){:target="_blank"} platform. To participate, [register your details here](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform){:target="_blank"}. 
 * **April 25, 2022**: The DADC Shared Task [registration](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform){:target="_blank"} deadline has been extended to May 15, 2022. [Sign up](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform){:target="_blank"} today!
 * **April 22, 2022**: We are delighted to announce that the awesome folks at [MLCommons](https://mlcommons.org/en/){:target="_blank"} will be sponsoring the DADC workshop! Their support will allow us to award prizes for the [shared task](shared-task.html) winners as well as a best paper award 🏆!
 * **April 7, 2022**: Following extensions by other NAACL workshops, we have also decided to extend the submission deadline for papers from April 8 to April 15. We look forward to your submissions! Submit at [https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/DADC](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/DADC){:target="_blank"}. 
