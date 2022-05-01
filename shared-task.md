@@ -15,7 +15,7 @@ Participants will submit 100 "official" question answering (QA) examples through
     * You should only submit **100** examples from your *official* participation account. If you submit more than 100, only the first 100 will be taken into consideration.
     * You will **NOT** be allowed to retract examples.
     * You **MUST provide explanations** for all your **model-fooling** examples only.
-    * You are NOT allowed to use sandbox mode on passages for which you will submit questions to the competition.
+    * You are **NOT** allowed to use sandbox mode on passages for which you will submit questions to the competition.
 1. Once the *Track 1 Example Creation* window is over, your submitted examples will get validated by an **expert validator**. Please refer to the [Validation Instructions](/shared-task.html#validation-instructions) below for more information.
 1. The winning team will be the one with the highest validated model error rate (vMER).
 1. By participating, you agree to make any of the data you submit available for public release.
@@ -30,7 +30,7 @@ After validation and cleaning, this dataset will form part of the validation and
 4. Questions can be answered from the content of the passage and DO NOT rely on expert external knowledge but can rely on *commonsense* knowledge (e.g. knowing that the sky is blue).
 5. DO NOT ask questions about the passage structure such as *"What is the third word in the passage?"*.
 6. There should be NO duplicate (or very similar) model-fooling questions. To ensure this, we require that all your model-fooling example for the same passage have different answers.
-7. You **MUST provide explanations** for all your **model-fooling examples only**.
+7. You *MUST provide explanations* for all your *model-fooling examples only*.
 
 Valid examples should be questions about the content of the passage (not its structure) that the model answers incorrectly and a sufficiently well-trained human answers correctly.
 
