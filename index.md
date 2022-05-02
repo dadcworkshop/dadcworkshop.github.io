@@ -44,13 +44,13 @@ For more information, refer to the [Call for Papers](/call-for-papers.html) page
 ## Important Dates (Paper Submission)
 
 | <!-- -->                                         | <!-- -->                                               |
-| :----------------------------------------------- | :----------------------------------------------------- |
+|:-------------------------------------------------| :----------------------------------------------------- |
 | **February 14, 2022**                            | First [Call for Workshop Papers](call-for-papers.html) |
 | <del>April 8</del> **<ins>April 15</ins>, 2022** | Submission deadline (papers requiring peer review)     |
-| **May 1, 2022**                                  | Submission deadline (papers with ARR reviews)          |
-| **May 1, 2022**                                  | Submission deadline (non-archival papers)              |
-| **May 6, 2022**                                  | Notification of Acceptance                             |
-| **May 20, 2022**                                 | Camera-ready Papers Due                                |
+| <del>May 1</del> **<ins>May 6</ins>, 2022**      | Submission deadline (papers with ARR reviews)          |
+| <del>May 1</del> **<ins>May 6</ins>, 2022**      | Submission deadline (non-archival papers)              |
+| <del>May 6</del> **<ins>May 13</ins>, 2022**     | Notification of Acceptance                             |
+| <del>May 20</del> **<ins>May 27</ins>, 2022**    | Camera-ready Papers Due                                |
 | **July 14-15, 2022**                             | Workshop Dates at NAACL 2022                           |
 
 ## Important Dates (Shared Task)
