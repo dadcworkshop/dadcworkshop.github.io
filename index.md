@@ -43,29 +43,29 @@ For more information, refer to the [Call for Papers](/call-for-papers.html) page
 
 ## Important Dates (Paper Submission)
 
-| <!-- -->                                         | <!-- -->                                               |
-|:-------------------------------------------------| :----------------------------------------------------- |
-| **February 14, 2022**                            | First [Call for Workshop Papers](call-for-papers.html) |
-| <del>April 8</del> **<ins>April 15</ins>, 2022** | Submission deadline (papers requiring peer review)     |
-| <del>May 1</del> **<ins>May 6</ins>, 2022**      | Submission deadline (papers with ARR reviews)          |
-| <del>May 1</del> **<ins>May 6</ins>, 2022**      | Submission deadline (non-archival papers)              |
-| <del>May 6</del> **<ins>May 13</ins>, 2022**     | Notification of Acceptance                             |
-| <del>May 20</del> **<ins>May 27</ins>, 2022**    | Camera-ready Papers Due                                |
-| **July 14-15, 2022**                             | Workshop Dates at NAACL 2022                           |
+| <!-- -->                                           | <!-- -->                                               |
+|:---------------------------------------------------| :----------------------------------------------------- |
+| **February 14, 2022**                              | First [Call for Workshop Papers](call-for-papers.html) |
+| **April** <del>8</del> **<ins>15</ins>, 2022**     | Submission deadline (papers requiring peer review)     |
+| **May** <del>1</del> **<ins>6</ins>, 2022**        | Submission deadline (papers with ARR reviews)          |
+| **May** <del>1</del> **<ins>6</ins>, 2022**        | Submission deadline (non-archival papers)              |
+| **May** <del>6</del> **<ins>13</ins>, 2022**       | Notification of Acceptance                             |
+| **May** <del>20</del> **<ins>27</ins>, 2022**      | Camera-ready Papers Due                                |
+| **July 14-15, 2022**                               | Workshop Dates at NAACL 2022                           |
 
 ## Important Dates (Shared Task)
 
-| <!-- -->                                        | <!-- -->                                                                                                                                            |
-|:------------------------------------------------| :-------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <del>April 25</del> **<ins>May 15</ins>, 2022** | [Team Registration](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform){:target="_blank"} Deadline |
-| **May 2 - 15, 2022**                            | Official Example Creation Window for [Track 1](/shared-task.html#track-1-better-annotators)                                                         |
-| **June 3, 2022**                                | [Track 2](/shared-task.html#track-2-better-training-data) Submission Deadline                                                                       |
-| **June 3, 2022**                                | [Track 3](/shared-task.html#track-3-better-models) Submission Deadline                                                                              |
-| **June 10, 2022**                               | System Description Paper (Optional) Submission Deadline                                                                                             |
-| **June 17, 2022**                               | System Description Paper Notification of Acceptance                                                                                                 |
-| **June 17, 2022**                               | Results Announced                                                                                                                                   |
-| **June 24, 2022**                               | System Description Paper Camera-Ready Deadline                                                                                                      |
-| **July 14-15, 2022**                            | Workshop Dates & Overall Winning Team Announcement 🏆                                                                                                |
+| <!-- -->                                          | <!-- -->                                                                                                                                            |
+|:--------------------------------------------------| :-------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <del>April 25</del> **<ins>May 15</ins>, 2022**   | [Team Registration](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform){:target="_blank"} Deadline |
+| **May 2 - 15, 2022**                              | Official Example Creation Window for [Track 1](/shared-task.html#track-1-better-annotators)                                                         |
+| **June 3, 2022**                                  | [Track 2](/shared-task.html#track-2-better-training-data) Submission Deadline                                                                       |
+| **June 3, 2022**                                  | [Track 3](/shared-task.html#track-3-better-models) Submission Deadline                                                                              |
+| **June 10, 2022**                                 | System Description Paper (Optional) Submission Deadline                                                                                             |
+| **June 17, 2022**                                 | System Description Paper Notification of Acceptance                                                                                                 |
+| **June 17, 2022**                                 | Results Announced                                                                                                                                   |
+| **June 24, 2022**                                 | System Description Paper Camera-Ready Deadline                                                                                                      |
+| **July 14-15, 2022**                              | Workshop Dates & Overall Winning Team Announcement 🏆                                                                                                |
 
 <br />
 
