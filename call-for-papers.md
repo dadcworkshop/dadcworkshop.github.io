@@ -1,6 +1,6 @@
 # Call for Papers
 
-We are pleased to announce the first call for papers for the First Workshop on Dynamic Adversarial Data Collection (DADC), taking place on the 14-15th July, 2022 and co-located with NAACL 2022 in Seattle, Washington.
+We are pleased to announce the first call for papers for the First Workshop on Dynamic Adversarial Data Collection (DADC), taking place on the 14th July, 2022 and co-located with NAACL 2022 in Seattle, Washington.
 
 Dynamic Adversarial Data Collection (DADC) has been gaining traction in the NLP research community as a promising approach to improving data collection practices, model evaluation and task performance ([Yang et al., 2017](https://arxiv.org/abs/1711.07950){:target="_blank"}; [Dua et al., 2019](https://aclanthology.org/N19-1246.pdf){:target="_blank"}; [Dinan et al., 2019](https://aclanthology.org/D19-1461.pdf){:target="_blank"}; [Nie et al., 2020](https://arxiv.org/abs/1910.14599){:target="_blank"}; [Bartolo et al., 2020](https://arxiv.org/abs/2002.00293){:target="_blank"}; [Kiela et al. 2021](https://arxiv.org/abs/2104.14337){:target="_blank"}). 
 DADC allows the dynamic collection of human-written data with models in the loop. Human annotators can be tasked with finding adversarial examples that fool current state-of-the-art models (SOTA) or they can cooperate with assistive models-in-the-loop to find interesting examples.
@@ -41,14 +41,14 @@ We will also be running a Shared Task competition focused on better annotation, 
 
 ### Important Dates
 
-| <!-- -->                                            | <!-- -->                                             |
-|:----------------------------------------------------|:-----------------------------------------------------|
-| **April** <del>8</del> **<ins>15</ins>, 2022**      | Submission deadline (papers requiring peer review)     |
-| **May** <del>1</del> **<ins>6</ins>, 2022**         | Submission deadline (papers with ARR reviews)          |
-| **May** <del>1</del> **<ins>6</ins>, 2022**         | Submission deadline (non-archival papers)              |
-| **May** <del>6</del> **<ins>13</ins>, 2022**        | Notification of Acceptance                             |
-| **May** <del>20</del> **<ins>27</ins>, 2022**       | Camera-ready Papers Due                                |
-| **July 14-15, 2022**                                | Workshop Dates at NAACL 2022                           |
+| <!-- -->                                       | <!-- -->                                           |
+|:-----------------------------------------------|:---------------------------------------------------|
+| **April** <del>8</del> **<ins>15</ins>, 2022** | Submission deadline (papers requiring peer review) |
+| **May** <del>1</del> **<ins>6</ins>, 2022**    | Submission deadline (papers with ARR reviews)      |
+| **May** <del>1</del> **<ins>6</ins>, 2022**    | Submission deadline (non-archival papers)          |
+| **May** <del>6</del> **<ins>13</ins>, 2022**   | Notification of Acceptance                         |
+| **May** <del>20</del> **<ins>27</ins>, 2022**  | Camera-ready Papers Due                            |
+| **July 14, 2022**                              | Workshop Date at NAACL 2022                        |
 
 All deadlines are 11:59pm AOE (anywhere on earth).
 
