@@ -10,15 +10,15 @@ Participants will submit 100 "official" question answering (QA) examples through
 
 #### Participation Instructions
 1. Create an "official" Dynabench account for your team (and share your account username with us when filling out the [Team Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform){:target="_blank"}).
-1. Test out [Dynabench QA Interface](https://dynabench.org/tasks/qa/create){:target="_blank"}. **Important: DO NOT use your "official" shared task account for this. We recommend that you either create personal test accounts or switch to Sandbox mode in the interface.**. You are free to interact with the model as often as you like from your *test* accounts to try to identify model failure patterns.
-1. The actual submission will occur over a 2-week *Track 1 Example Creation* window. The organisers will provide a new set of annotation passages, but you will be competing against the [current best QA model](https://dynabench.org/models/109) which will remain the same as during the previous testing phase. Some rules regarding the official submission phase:
+2. Test out [Dynabench QA Interface](https://dynabench.org/tasks/qa/create){:target="_blank"}. **Important: DO NOT use your "official" shared task account for this. We recommend that you either create personal test accounts or switch to Sandbox mode in the interface.**. You are free to interact with the model as often as you like from your *test* accounts to try to identify model failure patterns.
+3. The actual submission will occur over a 2-week *Track 1 Example Creation* window. The organisers will provide a new set of annotation passages, but you will be competing against the [current best QA model](https://dynabench.org/models/109) which will remain the same as during the previous testing phase. Some rules regarding the official submission phase:
     * You should only submit **100** examples from your *official* participation account. If you submit more than 100, only the first 100 will be taken into consideration.
     * You will **NOT** be allowed to retract examples.
     * You **MUST provide explanations** for all your **model-fooling** examples only.
     * You are **NOT** allowed to use sandbox mode on passages for which you will submit questions to the competition.
-1. Once the *Track 1 Example Creation* window is over, your submitted examples will get validated by an **expert validator**. Please refer to the [Validation Instructions](/shared-task.html#validation-instructions) below for more information.
-1. The winning team will be the one with the highest validated model error rate (vMER).
-1. By participating, you agree to make any of the data you submit available for public release.
+4. Once the *Track 1 Example Creation* window is over, your submitted examples will get validated by an **expert validator**. Please refer to the [Validation Instructions](/shared-task.html#validation-instructions) below for more information.
+5. The winning team will be the one with the highest validated model error rate (vMER).
+6. By participating, you agree to make any of the data you submit available for public release.
 
 After validation and cleaning, this dataset will form part of the validation and testing for the other competition tracks.
 
@@ -31,6 +31,7 @@ After validation and cleaning, this dataset will form part of the validation and
 5. DO NOT ask questions about the passage structure such as *"What is the third word in the passage?"*.
 6. There should be NO duplicate (or very similar) model-fooling questions. To ensure this, we require that all your model-fooling example for the same passage have different answers.
 7. You *MUST provide explanations* for all your *model-fooling examples only*.
+8. If the interface suggests that you didn't fool the model, but you actually consider the model to be fooled, please prepend the text **MODELFOOLED** to your explanation and then provide the explanation for why the model is fooled as normal. 
 
 Valid examples should be questions about the content of the passage (not its structure) that the model answers incorrectly and a sufficiently well-trained human answers correctly.
 
