@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <title>
+Shared Task
+</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="/favicon/favicon.ico">
+
+  <link rel="stylesheet" href="/css/style.css">
+  <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+  <div class="wrapper">
+    <header>
+      <a href="/"><img src="/img/logo.png" alt="Logo" style="max-width: 45%; margin-bottom: 0.4em;" /></a>
+
+      <h1><a href="/">Dynamic Adversarial Data Collection (DADC) Workshop at NAACL 2022</a></h1>
+
+      <p>The First Workshop on Dynamic Adversarial Data Collection (DADC) at <a href='https://2022.naacl.org/'
+          target='_blank'>NAACL 2022</a> in Seattle, Washington.</p>
+
+      <a href="/">Home</a>
+      <br />
+      <a href="/program">Program and Invited Speakers</a>
+      <br />
+      <a href="/shared-task">Shared Task</a>
+      <br />
+      <a href="/call-for-papers">Call for Papers</a>
+      <br>
+      <a href="https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/DADC" target="_blank">Submit Paper</a>
+      <br>
+      <a href="https://groups.google.com/u/0/g/dadc-workshop" target="_blank">Sign up for notifications</a>
+      <br>
+
+      <!-- Twitter Feed -->
+      <div class="twitter-feed" style="padding-top: 16px">
+        <a class="twitter-timeline" data-height="420" href="https://twitter.com/DADCworkshop?ref_src=twsrc%5Etfw">Tweets
+          by DADCworkshop</a>
+        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </div>
+    </header>
+
+    <section>
+
+      
+<h1 id="the-dadc-shared-task">The DADC Shared Task</h1>
+<p>The DADC Shared Task this year will focus on the Extractive Question Answering (QA) task. We hope to expand to other NLP-related tasks in future iterations of the competition.</p>
+<p>Register your team's interest in participating <a href="https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform">here</a>.</p>
+<h2 id="how-to-participate">How to Participate</h2>
+<h3 id="track-1-better-annotators">Track 1: Better Annotators</h3>
+<p>Participants will submit 100 &quot;official&quot; question answering (QA) examples through the <a href="https://dynabench.org/tasks/qa">Dynabench</a> platform. The collected dataset will form parts of the evaluation set for Tracks 2 and 3. The objective is to find as many model-fooling examples as possible -- the winning team will be the one with the highest validated model error rate (vMER).</p>
+<h4 id="participation-instructions">Participation Instructions</h4>
+<ol>
+<li>Create an &quot;official&quot; Dynabench account for your team (and share your account username with us when filling out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform">Team Registration Form</a>).</li>
+<li>Test out <a href="https://dynabench.org/tasks/qa/create">Dynabench QA Interface</a>. <strong>Important: DO NOT use your &quot;official&quot; shared task account for this. We recommend that you either create personal test accounts or switch to Sandbox mode in the interface.</strong>. You are free to interact with the model as often as you like from your <em>test</em> accounts to try to identify model failure patterns.</li>
+<li>The actual submission will occur over a 2-week <em>Track 1 Example Creation</em> window. The organisers will provide a new set of annotation passages, but you will be competing against the <a href="https://dynabench.org/models/109">current best QA model</a> which will remain the same as during the previous testing phase. Some rules regarding the official submission phase:
+<ul>
+<li>You should only submit <strong>100</strong> examples from your <em>official</em> participation account. If you submit more than 100, only the first 100 will be taken into consideration.</li>
+<li>You will <strong>NOT</strong> be allowed to retract examples.</li>
+<li>You <strong>MUST provide explanations</strong> for all your <strong>model-fooling</strong> examples only.</li>
+<li>You are <strong>NOT</strong> allowed to use sandbox mode on passages for which you will submit questions to the competition.</li>
+</ul>
+</li>
+<li>Once the <em>Track 1 Example Creation</em> window is over, your submitted examples will get validated by an <strong>expert validator</strong>. Please refer to the <a href="/shared-task.html#validation-instructions">Validation Instructions</a> below for more information.</li>
+<li>The winning team will be the one with the highest validated model error rate (vMER).</li>
+<li>By participating, you agree to make any of the data you submit available for public release.</li>
+</ol>
+<p>After validation and cleaning, this dataset will form part of the validation and testing for the other competition tracks.</p>
+<h4 id="validation-instructions">Validation Instructions</h4>
+<ol>
+<li>Questions must have only one valid answer in the passage.</li>
+<li>The shortest span which correctly answers the question is selected.</li>
+<li>Questions can be correctly answered from a span in the passage and DO NOT require a Yes or No answer.</li>
+<li>Questions can be answered from the content of the passage and DO NOT rely on expert external knowledge but can rely on <em>commonsense</em> knowledge (e.g. knowing that the sky is blue).</li>
+<li>DO NOT ask questions about the passage structure such as <em>&quot;What is the third word in the passage?&quot;</em>.</li>
+<li>There should be NO duplicate (or very similar) model-fooling questions. To ensure this, we require that all your model-fooling example for the same passage have different answers.</li>
+<li>You <em>MUST provide explanations</em> for all your <em>model-fooling examples only</em>.</li>
+<li>If the interface suggests that you didn't fool the model, but you actually consider the model to be fooled, please prepend the text <strong>MODELFOOLED</strong> to your explanation and then provide the explanation for why the model is fooled as normal. </li>
+</ol>
+<p>Valid examples should be questions about the content of the passage (not its structure) that the model answers incorrectly and a sufficiently well-trained human answers correctly.</p>
+<p>These instructions may be updated by the workshop organisers prior to the start of the <em>Track 1 Example Creation</em> window.</p>
+<h3 id="track-2-better-training-data">Track 2: Better Training Data</h3>
+<p>In this data-centric track, participants will submit 10,000 <strong>training</strong> examples (in SQuAD v1.1 JSON format, see <a href="https://huggingface.co/datasets/adversarial_qa#dataset-structure">https://huggingface.co/datasets/adversarial_qa#dataset-structure</a>). These examples can be selected from existing datasets, expert-annotated, crowdsourced, or synthetically-generated. The workshop organisers will then train ELECTRA-Large models and evaluate them on the data collected in Track 1. The team with the highest word-overlap F1 score on the test set will be considered the winner.</p>
+<p>To facilitate participation in this task, <strong>we make a variety of resources available</strong> including datasets, question generator models, and general tools and utilities at <a href="https://github.com/dadcworkshop/shared-task-resources">https://github.com/dadcworkshop/shared-task-resources</a>.</p>
+<h4 id="participation-instructions-1">Participation Instructions</h4>
+<ol>
+<li>Each team must submit 10,000 <strong>training</strong> examples (in SQuAD v1.1 JSON format, see <a href="https://huggingface.co/datasets/adversarial_qa#dataset-structure">https://huggingface.co/datasets/adversarial_qa#dataset-structure</a>). Submissions in the <strong>wrong format</strong> will be <strong>disqualified</strong>.</li>
+<li>It is the team’s responsibility to ensure that all question IDs are unique.</li>
+<li>Data can be self-annotated, selected from existing datasets, synthetically generated, crowdsourced, etc. Please also refer to the <a href="https://github.com/dadcworkshop/shared-task-resources">DADC Shared Task resources</a>.</li>
+<li>The submitted data cannot include passages from the test set. These will be made available by the start of the <em>Track 1 Example Creation</em> window. Any examples for which we find significant overlap will be removed.</li>
+<li>The <strong>workshop organisers</strong> will then train five (5) ELECTRA-Large models on your provided training dataset using the default 🤗 HuggingFace hyper-parameters and different random seeds (these will not be disclosed in advance).</li>
+<li>We will create both a <em>validation</em> and <em>test</em> set from the <em>Track 1 Dataset</em> that will be used to determine which model checkpoint to use and evaluate these models.</li>
+<li>We will evaluate word-overlap F1 score of each model on the <em>Track 1 Test Dataset</em>.</li>
+<li>Your official result will be the median score of the <strong>best 3 performing models (of the 5 trained)</strong>.</li>
+<li>The team with the highest word-overlap F1 score on the test set will be considered the winner.</li>
+</ol>
+<h3 id="track-3-better-models">Track 3: Better Models</h3>
+<p>The workshop organisers have pre-specified a set of evaluation weights for the <a href="https://dynabench.org/tasks/qa">Dynabench</a> QA leaderboard. Participants can train any models on any data and submit their models directly to <a href="https://dynabench.org/tasks/qa">Dynabench</a>. The team with the highest <strong>dynascore</strong> will be considered the winner.</p>
+<h4 id="participation-instructions-2">Participation Instructions</h4>
+<ol>
+<li>Create an &quot;official&quot; Dynabench account for your team (and share your account username with us when filling out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform">Team Registration Form</a>).</li>
+<li>You may train any models on whatever data you want.</li>
+<li>Models should be submitted directly to <a href="https://dynabench.org/tasks/qa">Dynabench</a> using <a href="https://github.com/facebookresearch/dynalab">Dynalab</a>.</li>
+<li>The official <strong>dynaboard evaluation weights</strong> we will use are:
+<ul>
+<li>QA F1: 4
+<ul>
+<li>aqa-r1-test: 5</li>
+<li>dadc-track-1-test: 4</li>
+<li>squad-dev: 3</li>
+</ul>
+</li>
+<li>Throughput: 1</li>
+<li>Memory: 1</li>
+<li>Fairness: 1</li>
+<li>Robustness: 1</li>
+</ul>
+</li>
+<li>Kindly take note of the weighting allocated to the <em>Track 1 Test Dataset</em>, for which you will <strong>NOT</strong> be provided with a <em>validation</em> set.</li>
+<li>The team with the highest <strong>dynascore</strong> will be considered the winner.</li>
+</ol>
+<p>The workshop organisers refer the right to modify the official evaluation weights if required.</p>
+<h3 id="overall">Overall</h3>
+<p>Teams can choose to participate on individual tracks only. To further encourage the formation of diverse teams working on a range of challenges, we will also have an overall DADC Shared Task Winning Team based on performance across all 3 tracks.</p>
+<p>Teams awarded points based on their position in each track:</p>
+<table><thead><tr><th align="left">Team Rank</th><th align="left">Points</th></tr></thead><tbody>
+<tr><td align="left">1st</td><td align="left"><strong>25 points</strong></td></tr>
+<tr><td align="left">2nd</td><td align="left"><strong>18 points</strong></td></tr>
+<tr><td align="left">3rd</td><td align="left"><strong>15 points</strong></td></tr>
+<tr><td align="left">4th</td><td align="left"><strong>12 points</strong></td></tr>
+<tr><td align="left">5th</td><td align="left"><strong>10 points</strong></td></tr>
+<tr><td align="left">6th</td><td align="left"><strong>8 points</strong></td></tr>
+<tr><td align="left">7th</td><td align="left"><strong>6 points</strong></td></tr>
+<tr><td align="left">8th</td><td align="left"><strong>4 points</strong></td></tr>
+<tr><td align="left">9th</td><td align="left"><strong>2 points</strong></td></tr>
+<tr><td align="left">10th</td><td align="left"><strong>1 point</strong></td></tr>
+</tbody></table>
+<p>The team with the highest number of points overall will be the <strong>DADC Shared Task Winning Team</strong> 🏆.</p>
+<h2 id="important-dates">Important Dates</h2>
+<table><thead><tr><th align="left"><!-- --></th><th align="left"><!-- --></th></tr></thead><tbody>
+<tr><td align="left"><del>April 25</del> <strong><ins>May 15</ins>, 2022</strong></td><td align="left"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform">Team Registration</a> Deadline</td></tr>
+<tr><td align="left"><strong>May 2 - 15, 2022</strong></td><td align="left">Official Example Creation Window for <a href="/shared-task.html#track-1-better-annotators">Track 1</a></td></tr>
+<tr><td align="left"><strong>June 3, 2022</strong></td><td align="left"><a href="/shared-task.html#track-2-better-training-data">Track 2</a> Submission Deadline</td></tr>
+<tr><td align="left"><strong>June 3, 2022</strong></td><td align="left"><a href="/shared-task.html#track-3-better-models">Track 3</a> Submission Deadline</td></tr>
+<tr><td align="left"><strong>June 10, 2022</strong></td><td align="left">System Description Paper (Optional) Submission Deadline</td></tr>
+<tr><td align="left"><strong>June 17, 2022</strong></td><td align="left">System Description Paper Notification of Acceptance</td></tr>
+<tr><td align="left"><strong>June 17, 2022</strong></td><td align="left">Results Announced</td></tr>
+<tr><td align="left"><strong>June 24, 2022</strong></td><td align="left">System Description Paper Camera-Ready Deadline</td></tr>
+<tr><td align="left"><strong>July 14, 2022</strong></td><td align="left">Workshop Dates &amp; Overall Winning Team Announcement 🏆</td></tr>
+</tbody></table>
+
+
+
+    </section>
+    <footer>
+      <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small>
+      </p>
+    </footer>
+  </div>
+  <script src="/js/scale.fix.js""></script>
+</body>
+
+</html>

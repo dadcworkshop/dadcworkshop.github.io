@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dadcworkshop.github.io/sitemap.xml

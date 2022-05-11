@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <title>{% block title %}{% endblock title %}</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="/favicon/favicon.ico">
+
+  <link rel="stylesheet" href="/css/style.css">
+  <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+  <div class="wrapper">
+    <header>
+      <a href="/"><img src="/img/logo.png" alt="Logo" style="max-width: 45%; margin-bottom: 0.4em;" /></a>
+
+      <h1><a href="/">Dynamic Adversarial Data Collection (DADC) Workshop at NAACL 2022</a></h1>
+
+      <p>The First Workshop on Dynamic Adversarial Data Collection (DADC) at <a href='https://2022.naacl.org/'
+          target='_blank'>NAACL 2022</a> in Seattle, Washington.</p>
+
+      <a href="/">Home</a>
+      <br />
+      <a href="/program">Program and Invited Speakers</a>
+      <br />
+      <a href="/shared-task">Shared Task</a>
+      <br />
+      <a href="/call-for-papers">Call for Papers</a>
+      <br>
+      <a href="https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/DADC" target="_blank">Submit Paper</a>
+      <br>
+      <a href="https://groups.google.com/u/0/g/dadc-workshop" target="_blank">Sign up for notifications</a>
+      <br>
+
+      <!-- Twitter Feed -->
+      <div class="twitter-feed" style="padding-top: 16px">
+        <a class="twitter-timeline" data-height="420" href="https://twitter.com/DADCworkshop?ref_src=twsrc%5Etfw">Tweets
+          by DADCworkshop</a>
+        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </div>
+    </header>
+
+    <section>
+
+      {% block content %}
+      {% endblock content %}
+
+    </section>
+    <footer>
+      <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small>
+      </p>
+    </footer>
+  </div>
+  <script src="/js/scale.fix.js""></script>
+</body>
+
+</html>
