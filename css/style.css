@@ -2,6 +2,8 @@
 @font-face { font-family: 'Noto Sans'; font-weight: 700; font-style: normal; src: url("../fonts/Noto-Sans-700/Noto-Sans-700.eot"); src: url("../fonts/Noto-Sans-700/Noto-Sans-700.eot?#iefix") format("embedded-opentype"), local("Noto Sans Bold"), local("Noto-Sans-700"), url("../fonts/Noto-Sans-700/Noto-Sans-700.woff2") format("woff2"), url("../fonts/Noto-Sans-700/Noto-Sans-700.woff") format("woff"), url("../fonts/Noto-Sans-700/Noto-Sans-700.ttf") format("truetype"), url("../fonts/Noto-Sans-700/Noto-Sans-700.svg#NotoSans") format("svg"); }
 @font-face { font-family: 'Noto Sans'; font-weight: 400; font-style: italic; src: url("../fonts/Noto-Sans-italic/Noto-Sans-italic.eot"); src: url("../fonts/Noto-Sans-italic/Noto-Sans-italic.eot?#iefix") format("embedded-opentype"), local("Noto Sans Italic"), local("Noto-Sans-italic"), url("../fonts/Noto-Sans-italic/Noto-Sans-italic.woff2") format("woff2"), url("../fonts/Noto-Sans-italic/Noto-Sans-italic.woff") format("woff"), url("../fonts/Noto-Sans-italic/Noto-Sans-italic.ttf") format("truetype"), url("../fonts/Noto-Sans-italic/Noto-Sans-italic.svg#NotoSans") format("svg"); }
 @font-face { font-family: 'Noto Sans'; font-weight: 700; font-style: italic; src: url("../fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot"); src: url("../fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot?#iefix") format("embedded-opentype"), local("Noto Sans Bold Italic"), local("Noto-Sans-700italic"), url("../fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff2") format("woff2"), url("../fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff") format("woff"), url("../fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf") format("truetype"), url("../fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg#NotoSans") format("svg"); }
+
+
 .highlight table td { padding: 5px; }
 
 .highlight table pre { margin: 0; }
@@ -199,6 +201,36 @@ small { font-size: 11px; }
 hr { border: 0; background: #e5e5e5; height: 1px; margin: 0 0 20px; }
 
 footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-smoothing: subpixel-antialiased; }
+
+
+/* Button - start */
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -webkit-appearance: button;
+    -moz-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    cursor: pointer;
+}
+.btn-success {
+    color: #fff;
+    background-color: #198754;
+    border-color: #198754;
+}
+/* Button - end */
 
 
 @media print, screen and (max-width: 960px) { div.wrapper { width: auto; margin: 0; }
