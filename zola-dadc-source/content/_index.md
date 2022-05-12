@@ -59,8 +59,8 @@ For more information, refer to the [Call for Papers](/call-for-papers.html) page
 ## Important Dates (Shared Task)
 
 | <!-- -->                                        | <!-- -->                                                                                                                          |
-| :---------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------- |
-| <del>April 25</del> **<ins>May 15</ins>, 2022** | [Team Registration](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform) Deadline |
+|:------------------------------------------------| :-------------------------------------------------------------------------------------------------------------------------------- |
+| <del>April 25</del> **<ins>May 22</ins>, 2022** | [Team Registration](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform) Deadline |
 | **May 2 - <del>15</del> <ins>22</ins>, 2022**   | Official Example Creation Window for [Track 1](/shared-task.html#track-1-better-annotators)                                       |
 | **June 3, 2022**                                | [Track 2](/shared-task.html#track-2-better-training-data) Submission Deadline                                                     |
 | **June 3, 2022**                                | [Track 3](/shared-task.html#track-3-better-models) Submission Deadline                                                            |
