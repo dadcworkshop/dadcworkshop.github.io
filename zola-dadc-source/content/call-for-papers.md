@@ -40,7 +40,7 @@ To submit your paper, please see the [OpenReview DADC workshop page](https://ope
 
 ### DADC Shared Task
 
-We will also be running a Shared Task competition focused on better annotation, better training data and better models. For more information, see our [Call for Participation](/shared-task.html).
+We will also be running a Shared Task competition focused on better annotation, better training data and better models. For more information, see our [Call for Participation](/shared-task/).
 
 
 ### Important Dates

@@ -5,18 +5,18 @@ title = "The First Workshop on Dynamic Adversarial Data Collection (DADC)"
 -----------------------------------------------------------------------------
 
 ## Latest News: 
-* **May 2, 2022**: The Official Example Creation Window for [Track 1](/shared-task.html#track-1-better-annotators) is now live on the [Dynabench](https://dynabench.org/tasks/qa) platform. To participate, [register your details here](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform). 
+* **May 2, 2022**: The Official Example Creation Window for [Track 1](/shared-task/#track-1-better-annotators) is now live on the [Dynabench](https://dynabench.org/tasks/qa) platform. To participate, [register your details here](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform). 
 * **April 25, 2022**: The DADC Shared Task [registration](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform) deadline has been extended to May 15, 2022. [Sign up](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform) today!
-* **April 22, 2022**: We are delighted to announce that the awesome folks at [MLCommons](https://mlcommons.org/en/) will be sponsoring the DADC workshop! Their support will allow us to award prizes for the [shared task](shared-task.html) winners as well as a best paper award 🏆!
+* **April 22, 2022**: We are delighted to announce that the awesome folks at [MLCommons](https://mlcommons.org/en/) will be sponsoring the DADC workshop! Their support will allow us to award prizes for the [shared task](shared-task/) winners as well as a best paper award 🏆!
 * **April 7, 2022**: Following extensions by other NAACL workshops, we have also decided to extend the submission deadline for papers from April 8 to April 15. We look forward to your submissions! Submit at [https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/DADC](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/DADC). 
 * **March 29, 2022**: The [OpenReview DADC workshop page](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/DADC) is now open and accepting paper submissions!
-* **March 23, 2022**: The DADC Shared Task [Call for Participation](/shared-task.html) is now live! To register your team's interest, fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform).
-* **February 14, 2022**: See our [Call for Papers here](/call-for-papers.html)!
+* **March 23, 2022**: The DADC Shared Task [Call for Participation](/shared-task/) is now live! To register your team's interest, fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform).
+* **February 14, 2022**: See our [Call for Papers here](/call-for-papers/)!
 
 ## The DADC Shared Task
 The DADC Shared Task this year will focus on the Extractive Question Answering (QA) task. We have three (3) tracks focusing on better annotators, better training data and better models.
 
-**Specific details and a call for participation can be found [here](/shared-task.html). Here's a quick overview:** 
+**Specific details and a call for participation can be found [here](/shared-task/). Here's a quick overview:** 
 
 ### Track 1: Better Annotators
 Participants will submit 100 "official" question answering (QA) examples through the [Dynabench](https://dynabench.org/tasks/qa) platform. The collected dataset will form parts of the evaluation set for Tracks 2 and 3. The objective is to find as many model-fooling examples as possible -- the winning team will be the one with the highest validated model error rate (vMER).
@@ -41,14 +41,14 @@ The [OpenReview DADC workshop page](https://openreview.net/group?id=aclweb.org/N
 The paper commitment page for work already having ARR reviews will be coming shortly.
 Papers should follow the official [*ACL Paper Styles](https://github.com/acl-org/acl-style-files) and [paper formatting guidelines](https://acl-org.github.io/ACLPUB/formatting.html#paper-format) (also see [Overleaf template](https://www.overleaf.com/read/crtcwgxzjskr)).
 
-For more information, refer to the [Call for Papers](/call-for-papers.html) page.
+For more information, refer to the [Call for Papers](/call-for-papers/) page.
 <br />
 
 ## Important Dates (Paper Submission)
 
 | <!-- -->                                       | <!-- -->                                               |
 |:-----------------------------------------------| :----------------------------------------------------- |
-| **February 14, 2022**                          | First [Call for Workshop Papers](call-for-papers.html) |
+| **February 14, 2022**                          | First [Call for Workshop Papers](call-for-papers/) |
 | **April** <del>8</del> **<ins>15</ins>, 2022** | Submission deadline (papers requiring peer review)     |
 | **May** <del>1</del> **<ins>6</ins>, 2022**    | Submission deadline (papers with ARR reviews)          |
 | **May** <del>1</del> **<ins>6</ins>, 2022**    | Submission deadline (non-archival papers)              |
@@ -61,9 +61,9 @@ For more information, refer to the [Call for Papers](/call-for-papers.html) page
 | <!-- -->                                        | <!-- -->                                                                                                                          |
 |:------------------------------------------------| :-------------------------------------------------------------------------------------------------------------------------------- |
 | <del>April 25</del> **<ins>May 22</ins>, 2022** | [Team Registration](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform) Deadline |
-| **May 2 - <del>15</del> <ins>22</ins>, 2022**   | Official Example Creation Window for [Track 1](/shared-task.html#track-1-better-annotators)                                       |
-| **June 3, 2022**                                | [Track 2](/shared-task.html#track-2-better-training-data) Submission Deadline                                                     |
-| **June 3, 2022**                                | [Track 3](/shared-task.html#track-3-better-models) Submission Deadline                                                            |
+| **May 2 - <del>15</del> <ins>22</ins>, 2022**   | Official Example Creation Window for [Track 1](/shared-task/#track-1-better-annotators)                                       |
+| **June 3, 2022**                                | [Track 2](/shared-task/#track-2-better-training-data) Submission Deadline                                                     |
+| **June 3, 2022**                                | [Track 3](/shared-task/#track-3-better-models) Submission Deadline                                                            |
 | **June 10, 2022**                               | System Description Paper (Optional) Submission Deadline                                                                           |
 | **June 17, 2022**                               | System Description Paper Notification of Acceptance                                                                               |
 | **June 17, 2022**                               | Results Announced                                                                                                                 |

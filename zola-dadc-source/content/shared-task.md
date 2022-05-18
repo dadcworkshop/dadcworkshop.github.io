@@ -21,7 +21,7 @@ Participants will submit 100 "official" question answering (QA) examples through
     * You will **NOT** be allowed to retract examples.
     * You **MUST provide explanations** for all your **model-fooling** examples only.
     * You are **NOT** allowed to use sandbox mode on passages for which you will submit questions to the competition.
-4. Once the *Track 1 Example Creation* window is over, your submitted examples will get validated by an **expert validator**. Please refer to the [Validation Instructions](/shared-task.html#validation-instructions) below for more information.
+4. Once the *Track 1 Example Creation* window is over, your submitted examples will get validated by an **expert validator**. Please refer to the [Validation Instructions](/shared-task/#validation-instructions) below for more information.
 5. The winning team will be the one with the highest validated model error rate (vMER).
 6. By participating, you agree to make any of the data you submit available for public release.
 
@@ -106,9 +106,9 @@ The team with the highest number of points overall will be the **DADC Shared Tas
 | <!-- -->                                        | <!-- -->                                                                                                                          |
 |:------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------|
 | <del>April 25</del> **<ins>May 22</ins>, 2022** | [Team Registration](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform) Deadline |
-| **May 2 - <del>15</del> <ins>22</ins>, 2022**   | Official Example Creation Window for [Track 1](/shared-task.html#track-1-better-annotators)                                       |
-| **June 3, 2022**                                | [Track 2](/shared-task.html#track-2-better-training-data) Submission Deadline                                                     |
-| **June 3, 2022**                                | [Track 3](/shared-task.html#track-3-better-models) Submission Deadline                                                            |
+| **May 2 - <del>15</del> <ins>22</ins>, 2022**   | Official Example Creation Window for [Track 1](/shared-task/#track-1-better-annotators)                                       |
+| **June 3, 2022**                                | [Track 2](/shared-task/#track-2-better-training-data) Submission Deadline                                                     |
+| **June 3, 2022**                                | [Track 3](/shared-task/#track-3-better-models) Submission Deadline                                                            |
 | **June 10, 2022**                               | System Description Paper (Optional) Submission Deadline                                                                           |
 | **June 17, 2022**                               | System Description Paper Notification of Acceptance                                                                               |
 | **June 17, 2022**                               | Results Announced                                                                                                                 |
