@@ -9,15 +9,22 @@ template = "page.html"
 
 ### [Anna Rogers, University of Copenhagen](https://annargrs.github.io)
 
+{{ resize_image(path="static/img/anna-rogers.jpeg", width=100, height=100, op="scale") }}
+
 - **Title: What kinds of questions have we been asking? A taxonomy for QA/RC benchmarks**
 - Abstract: This talk provides an overview of the current landscape of resources for Question Answering and Reading comprehension, highlighting the current lacunae for future work. I will also present a new taxonomy of "skills" targeted by QA/RC datasets and discuss various ways in which questions may be unanswerable.
 
+
 ### [Sam Bowman, Assistant Professor, New York University & Visiting Researcher (Sabbatical), Anthropic](https://cims.nyu.edu/~sbowman/)
+
+{{ resize_image(path="static/img/sambowman.jpeg", width=100, height=100, op="fill") }}
 
 - **Title: Why Adversarially-Collected Test Sets Don’t Work as Benchmarks**
 - Abstract: Dynamic and/or adversarial data collection can be quite useful as a way of collecting training data for machine-learning models, identifying the conditions under which these models fail, and conducting online head-to-head comparisons between models. However, it is essentially impossible to use these practices to build usable static benchmark datasets for use in evaluating or comparing future new models. I defend this point using a mix of conceptual and empirical points, focusing on the claims (i) that adversarial data collection can skew the distribution of phenomena such as to make it unrepresentative of the intended task, and (ii) that adversarial data collection can arbitrarily shift the rankings of models on its resulting test sets to disfavor systems that are qualitatively similar to the current state of the art.
 
 ### [Jordan Boyd-Graber, Associate Professor, University of Maryland at College Park](http://users.umiacs.umd.edu/~jbg/)
+
+{{ resize_image(path="static/img/jbg.png", width=100, height=100, op="scale") }}
 
 - **Title: Incentives for Experts to Create Adversarial QA and
 Fact-Checking Examples**
@@ -36,6 +43,13 @@ argue that the focus on retrieval is important for knowledge-based
 adversarial examples because it highlights diverse information,
 prevents frustration in authors, and takes advantage of users'
 expertise.
+
+### [Lora Aroyo, Research Scientist, Google](https://lora-aroyo.org)
+
+{{ resize_image(path="static/img/lora-aroyo.jpg", width=100, height=100, op="fill") }}
+
+- **Title: Data Excellence: Better Data for Better AI**
+- Abstract: The efficacy of machine learning (ML) models depends on both algorithms and data. Training data defines what we want our models to learn, and testing data provides the means by which their empirical progress is measured. Benchmark datasets define the entire world within which models exist and operate, yet research continues to focus on critiquing and improving the algorithmic aspect of the models rather than critiquing and improving the data with which our models operate. If “data is the new oil,” we are still missing work on the refineries by which the data itself could be optimized for more effective use. In this talk, I will discuss data excellence and lessons learned from software engineering to achieve the scare and rigor in assessing data quality.
 
 [//]: # (## <span style="color:#267CB9"> Program </span>)
 
