@@ -59,6 +59,8 @@ To facilitate participation in this task, **we make a variety of resources avail
 1. Your official result will be the median score of the **best 3 performing models (of the 5 trained)**.
 1. The team with the highest word-overlap F1 score on the test set will be considered the winner.
 
+#### Submission Instructions
+* For Track 2 participation, upload your 10,000 training example dataset at [https://forms.gle/icJ5cijHtd9b4UmL6](https://forms.gle/icJ5cijHtd9b4UmL6)
 
 ### Track 3: Better Models
 The workshop organisers have pre-specified a set of evaluation weights for the [Dynabench](https://dynabench.org/tasks/qa) QA leaderboard. Participants can train any models on any data and submit their models directly to [Dynabench](https://dynabench.org/tasks/qa). The team with the highest **dynascore** will be considered the winner.
@@ -86,31 +88,31 @@ Teams can choose to participate on individual tracks only. To further encourage 
 
 Teams awarded points based on their position in each track:
 
-| Team Rank | Points        |
-| :-------- | :------------ |
-| 1st       | **25 points** |
-| 2nd       | **18 points** |
-| 3rd       | **15 points** |
-| 4th       | **12 points** |
-| 5th       | **10 points** |
-| 6th       | **8 points**  |
-| 7th       | **6 points**  |
-| 8th       | **4 points**  |
-| 9th       | **2 points**  |
-| 10th      | **1 point**   |
+| Team Rank   | Points          |
+|:------------|:----------------|
+| 1st         | **25 points**   |
+| 2nd         | **18 points**   |
+| 3rd         | **15 points**   |
+| 4th         | **12 points**   |
+| 5th         | **10 points**   |
+| 6th         | **8 points**    |
+| 7th         | **6 points**    |
+| 8th         | **4 points**    |
+| 9th         | **2 points**    |
+| 10th        | **1 point**     |
 
 The team with the highest number of points overall will be the **DADC Shared Task Winning Team** 🏆.
 
 ## Important Dates
 
-| <!-- -->                                        | <!-- -->                                                                                                                          |
-| :---------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------- |
-| <del>April 25</del> **<ins>May 22</ins>, 2022** | [Team Registration](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform) Deadline |
-| **May 2 - <del>15</del> <ins>22</ins>, 2022**   | Official Example Creation Window for [Track 1](/shared-task/#track-1-better-annotators)                                           |
-| **June 10, 2022**                               | [Track 2](/shared-task/#track-2-better-training-data) Submission Deadline                                                         |
-| **June 10, 2022**                               | [Track 3](/shared-task/#track-3-better-models) Submission Deadline                                                                |
-| **June 10, 2022**                               | System Description Paper (Optional) Submission Deadline                                                                           |
-| **June 17, 2022**                               | System Description Paper Notification of Acceptance                                                                               |
-| **June 17, 2022**                               | Results Announced                                                                                                                 |
-| **June 24, 2022**                               | System Description Paper Camera-Ready Deadline                                                                                    |
-| **July 14, 2022**                               | Workshop Dates & Overall Winning Team Announcement 🏆                                                                              |
+| <!-- -->                                          | <!-- -->                                                                                                                             |
+|:--------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
+| <del>April 25</del> **<ins>May 22</ins>, 2022**   | [Team Registration](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform) Deadline    |
+| **May 2 - <del>15</del> <ins>22</ins>, 2022**     | Official Example Creation Window for [Track 1](/shared-task/#track-1-better-annotators)                                              |
+| **June 10, 2022**                                 | [Track 2](/shared-task/#track-2-better-training-data) Submission Deadline                                                            |
+| **June 10, 2022**                                 | [Track 3](/shared-task/#track-3-better-models) Submission Deadline                                                                   |
+| **June 10, 2022**                                 | System Description Paper (Optional) Submission Deadline                                                                              |
+| **June 17, 2022**                                 | System Description Paper Notification of Acceptance                                                                                  |
+| **June 24, 2022**                                 | System Description Paper Camera-Ready Deadline                                                                                       |
+| **July 1, 2022**                                  | Results Announced                                                                                                                    |
+| **July 14, 2022**                                 | Workshop Dates & Overall Winning Team Announcement 🏆                                                                                |
