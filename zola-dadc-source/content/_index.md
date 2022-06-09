@@ -65,9 +65,9 @@ For more information, refer to the [Call for Papers](/call-for-papers/) page.
 |:------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------|
 | <del>April 25</del> **<ins>May 22</ins>, 2022** | [Team Registration](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform) Deadline   |
 | **May 2 - <del>15</del> <ins>22</ins>, 2022**   | Official Example Creation Window for [Track 1](/shared-task/#track-1-better-annotators)                                             |
-| **June 10, 2022**                               | [Track 2](/shared-task/#track-2-better-training-data) Submission Deadline                                                           |
-| **June 10, 2022**                               | [Track 3](/shared-task/#track-3-better-models) Submission Deadline                                                                  |
-| **June 10, 2022**                               | System Description Paper (Optional) Submission Deadline                                                                             |
+| **June 13, 2022**                               | [Track 2](/shared-task/#track-2-better-training-data) Submission Deadline                                                           |
+| **June 13, 2022**                               | [Track 3](/shared-task/#track-3-better-models) Submission Deadline                                                                  |
+| **June 13, 2022**                               | System Description Paper (Optional) Submission Deadline                                                                             |
 | **June 17, 2022**                               | System Description Paper Notification of Acceptance                                                                                 |                                                                                                                 |
 | **June 24, 2022**                               | System Description Paper Camera-Ready Deadline                                                                                      |
 | **July 1, 2022**                                | Results Announced                                                                                                                   |
