@@ -86,7 +86,6 @@ For more information, refer to the [Call for Papers](/call-for-papers/) page.
 * [Pedro Rodriguez](https://www.pedro.ai)
 * [Katerina Margatina](https://katerinamargatina.github.io/)
 * [Tristan Thrush](http://www.tristanthrush.com/)
-* [Mimansa Jaiswal](https://mimansajaiswal.github.io/)
 
 ### Advisory Committee
 
