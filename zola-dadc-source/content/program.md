@@ -7,12 +7,16 @@ template = "page.html"
 
 ## <span style="color:#267CB9"> Invited Speakers </span>
 
+<div class="invited-speakers">
+
 ### [Anna Rogers, University of Copenhagen](https://annargrs.github.io)
 #### What kinds of questions have we been asking? A taxonomy for QA/RC benchmarks
 
 {{ resize_image(path="static/img/anna-rogers.jpeg", width=100, height=100, op="scale") }}
 
 This talk provides an overview of the current landscape of resources for Question Answering and Reading comprehension, highlighting the current lacunae for future work. I will also present a new taxonomy of "skills" targeted by QA/RC datasets and discuss various ways in which questions may be unanswerable.
+
+<hr />
 
 
 ### [Sam Bowman, Assistant Professor, New York University & Visiting Researcher (Sabbatical), Anthropic](https://cims.nyu.edu/~sbowman/)
@@ -21,6 +25,9 @@ This talk provides an overview of the current landscape of resources for Questio
 {{ resize_image(path="static/img/sambowman.jpeg", width=100, height=100, op="fill") }}
 
 Dynamic and/or adversarial data collection can be quite useful as a way of collecting training data for machine-learning models, identifying the conditions under which these models fail, and conducting online head-to-head comparisons between models. However, it is essentially impossible to use these practices to build usable static benchmark datasets for use in evaluating or comparing future new models. I defend this point using a mix of conceptual and empirical points, focusing on the claims (i) that adversarial data collection can skew the distribution of phenomena such as to make it unrepresentative of the intended task, and (ii) that adversarial data collection can arbitrarily shift the rankings of models on its resulting test sets to disfavor systems that are qualitatively similar to the current state of the art.
+
+<hr />
+
 
 ### [Jordan Boyd-Graber, Associate Professor, University of Maryland at College Park](http://users.umiacs.umd.edu/~jbg/)
 #### Incentives for Experts to Create Adversarial QA and Fact-Checking Examples
@@ -43,6 +50,8 @@ adversarial examples because it highlights diverse information,
 prevents frustration in authors, and takes advantage of users'
 expertise.
 
+<hr />
+
 
 ### [Lora Aroyo, Research Scientist, Google](https://lora-aroyo.org)
 #### Data Excellence: Better Data for Better AI
@@ -51,6 +60,8 @@ expertise.
 
 The efficacy of machine learning (ML) models depends on both algorithms and data. Training data defines what we want our models to learn, and testing data provides the means by which their empirical progress is measured. Benchmark datasets define the entire world within which models exist and operate, yet research continues to focus on critiquing and improving the algorithmic aspect of the models rather than critiquing and improving the data with which our models operate. If “data is the new oil,” we are still missing work on the refineries by which the data itself could be optimized for more effective use. In this talk, I will discuss data excellence and lessons learned from software engineering to achieve the scare and rigor in assessing data quality.
 
+<hr />
+
 
 ### [Tongshuang (Sherry) Wu, Assistant Professor, Carnegie Mellon University (CMU HCII)](https://homes.cs.washington.edu/~wtshuang/)
 #### Model-in-the-loop Data Collection: What Roles does the Model Play?
@@ -58,6 +69,10 @@ The efficacy of machine learning (ML) models depends on both algorithms and data
 {{ resize_image(path="static/img/sherry-wu.jpeg", width=100, height=100, op="fill") }}
 
 Assistive models have been shown useful for supporting humans in creating challenging datasets, but how exactly do they help? In this talk, I will discuss different roles of assistive models in counterfactual data collection (i.e., perturbing existing text inputs to gain insight into task model decision boundaries), and the characteristics associated with these roles. I will use three examples (CheckList, Polyjuice, Tailor) to demonstrate how our objectives shift when we perturb texts for evaluation, explanation, and improvement, and how that change the corresponding assistive models from enhancing human goals (requiring model controllability) to competing with human bias (requiring careful data reranking). I will conclude by exploring additional roles that these models can play to become more effective.
+
+<hr />
+
+</div>
 
 
 [//]: # (## <span style="color:#267CB9"> Program </span>)
