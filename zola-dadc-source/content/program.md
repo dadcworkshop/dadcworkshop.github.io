@@ -63,7 +63,7 @@ The efficacy of machine learning (ML) models depends on both algorithms and data
 <hr />
 
 
-### [Tongshuang (Sherry) Wu, Assistant Professor, Carnegie Mellon University (CMU HCII)](https://homes.cs.washington.edu/~wtshuang/)
+### [Sherry Tongshuang Wu, Assistant Professor, Carnegie Mellon University (CMU HCII)](https://homes.cs.washington.edu/~wtshuang/)
 #### Model-in-the-loop Data Collection: What Roles does the Model Play?
 
 {{ resize_image(path="static/img/sherry-wu.jpeg", width=100, height=100, op="fill") }}
