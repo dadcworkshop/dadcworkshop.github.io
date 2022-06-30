@@ -75,40 +75,38 @@ Assistive models have been shown useful for supporting humans in creating challe
 </div>
 
 
-## <span style="color:#267CB9">Program</span>
+## <span style="color:#267CB9">Program (14<sup>th</sup> July, 2022)</span>
 
-Date: 14<sup>th</sup> July, 2022<br />
+<span class="time">09:00 – 09:10:</span> Opening remarks
 
-<span class="time">09:00 – 09:10</span> Opening remarks
+<span class="time">09:10 – 09:25:</span> Collaborative Progress: [MLCommons](https://mlcommons.org/) Introduction
 
-<span class="time">09:10 – 09:25</span> Collaborative Progress: [MLCommons](https://mlcommons.org/) Introduction
+<span class="time">09:25 – 10:00:</span> Invited Talk 1: Anna Rogers
 
-<span class="time">09:25 – 10:00</span> Invited Talk 1: Anna Rogers
+<span class="time">10:00 – 10:35:</span> Invited Talk 2: Jordan Boyd-Graber
 
-<span class="time">10:00 – 10:35</span> Invited Talk 2: Jordan Boyd-Graber
+<span class="time">10:35 – 10:50:</span> Coffee Break
 
-<span class="time">10:35 – 10:50</span> Coffee Break
+<span class="time">10:50 – 11:10:</span> Best Paper Talk: Margaret Li and Julian Michael
 
-<span class="time">10:50 – 11:10</span> Best Paper Talk: Margaret Li and Julian Michael
+<span class="time">11:10 – 11:45:</span> Invited Talk 3: Sam Bowman
 
-<span class="time">11:10 – 11:45</span> Invited Talk 3: Sam Bowman
+<span class="time">11:45 – 12:20:</span> Invited Talk 4: Lora Aroyo
 
-<span class="time">11:45 – 12:20</span> Invited Talk 4: Lora Aroyo
+<span class="time">12:20 – 13:20:</span> Lunch
 
-<span class="time">12:20 – 13:20</span> Lunch
+<span class="time">13:20 – 13:55:</span> Invited Talk 5: Sherry Tongshuang Wu
 
-<span class="time">13:20 – 13:55</span> Invited Talk 5: Sherry Tongshuang Wu
+<span class="time">13:55 – 14:55:</span> Panel on The Future of Data Collection moderated by Adina Williams
 
-<span class="time">13:55 – 14:55</span> Panel: The Future of Data Collection. Moderated by Adina Williams
+<span class="time">14:55 – 15:10:</span> Coffee Break
 
-<span class="time">14:55 – 15:10</span> Coffee Break
+<span class="time">15:10 – 15:20:</span> Shared Task Introduction
 
-<span class="time">15:10 – 15:20</span> Shared Task Introduction
+<span class="time">15:20 – 15:40:</span> Shared Task Winners' Presentations
 
-<span class="time">15:20 – 15:40</span> Shared Task Winners' Presentations
+<span class="time">15:40 – 16:50:</span> Poster Session
 
-<span class="time">15:40 – 16:50</span> Poster Session
-
-<span class="time">16:50 – 17:00</span> Closing Remarks
+<span class="time">16:50 – 17:00:</span> Closing Remarks
 
 <hr />
