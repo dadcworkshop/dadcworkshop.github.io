@@ -86,11 +86,11 @@ For more information, refer to the [Call for Papers](/call-for-papers/) page.
 * [Pedro Rodriguez](https://www.pedro.ai)
 * [Katerina Margatina](https://katerinamargatina.github.io/)
 * [Tristan Thrush](http://www.tristanthrush.com/)
+* [Robin Jia](https://robinjia.github.io/)
 
 ### Advisory Committee
 
 * [Pontus Stenetorp](https://pontus.stenetorp.se/)
-* [Robin Jia](https://robinjia.github.io/)
 * [Adina Williams](https://wp.nyu.edu/adinawilliams/)
 * [Douwe Kiela](https://douwekiela.github.io/)
 
