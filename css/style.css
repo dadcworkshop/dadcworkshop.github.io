@@ -234,6 +234,10 @@ footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-
 }
 /* Button - end */
 
+span.time {
+    font-style: italic;
+}
+
 
 @media print, screen and (max-width: 960px) { div.wrapper { width: auto; margin: 0; }
   header, section, footer { float: none; position: static; width: auto; }
