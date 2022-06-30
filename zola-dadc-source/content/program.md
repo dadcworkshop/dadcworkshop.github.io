@@ -75,64 +75,40 @@ Assistive models have been shown useful for supporting humans in creating challe
 </div>
 
 
-[//]: # (## <span style="color:#267CB9"> Program </span>)
+## <span style="color:#267CB9">Program</span>
 
-[//]: # ()
-[//]: # (Find the tentative workshop schedule below.)
+Date: 14<sup>th</sup> July, 2022<br />
 
-[//]: # ()
-[//]: # (Date: TBD <br />)
+<span class="time">09:00 – 09:10</span> Opening remarks
 
-[//]: # ()
-[//]: # ()
-[//]: # (<span class="time">9:00–9:05</span> Opening remarks)
+<span class="time">09:10 – 09:25</span> Collaborative Progress: [MLCommons](https://mlcommons.org/) Introduction
 
-[//]: # ()
-[//]: # (<span class="time">9:05–9:30</span> Invited talk: MLCommons and DataPerf)
+<span class="time">09:25 – 10:00</span> Invited Talk 1: Anna Rogers
 
-[//]: # ()
-[//]: # (<span class="time">9:30–10:00</span> Invited Talk 1)
+<span class="time">10:00 – 10:35</span> Invited Talk 2: Jordan Boyd-Graber
 
-[//]: # ()
-[//]: # (<span class="time">10:00–10:30</span> Invited Talk 2)
+<span class="time">10:35 – 10:50</span> Coffee Break
 
-[//]: # ()
-[//]: # (<span class="time">10:30–10:40</span> Coffee Break)
+<span class="time">10:50 – 11:10</span> Best Paper Talk: Margaret Li and Julian Michael
 
-[//]: # ()
-[//]: # (<span class="time">10:40–11:10</span> Invited Talk 3)
+<span class="time">11:10 – 11:45</span> Invited Talk 3: Sam Bowman
 
-[//]: # ()
-[//]: # (<span class="time">11:10–12:00</span> Panel 1: Speakers 1-3 Moderated by Adina Williams)
+<span class="time">11:45 – 12:20</span> Invited Talk 4: Lora Aroyo
 
-[//]: # ()
-[//]: # (<span class="time">12:00–13:00</span> Lunch)
+<span class="time">12:20 – 13:20</span> Lunch
 
-[//]: # ()
-[//]: # (<span class="time">13:00–13:10</span> Shared Task Introduction)
+<span class="time">13:20 – 13:55</span> Invited Talk 5: Sherry Tongshuang Wu
 
-[//]: # ()
-[//]: # (<span class="time">13:10–14:00</span> Best Paper Talks)
+<span class="time">13:55 – 14:55</span> Panel: The Future of Data Collection. Moderated by Adina Williams
 
-[//]: # (> - Shared Task: Track 1 &#40;10 minutes&#41;)
+<span class="time">14:55 – 15:10</span> Coffee Break
 
-[//]: # (> - Shared Task:Track 2 &#40;10 minutes&#41;)
+<span class="time">15:10 – 15:20</span> Shared Task Introduction
 
-[//]: # (> - Shared Task:Track 3 &#40;10 minutes&#41;)
+<span class="time">15:20 – 15:40</span> Shared Task Winners' Presentations
 
-[//]: # (> - Best Paper &#40;20 minutes&#41;)
+<span class="time">15:40 – 16:50</span> Poster Session
 
-[//]: # ()
-[//]: # (<span class="time">14:00–15:00</span> Poster Session)
+<span class="time">16:50 – 17:00</span> Closing Remarks
 
-[//]: # ()
-[//]: # (<span class="time">15:00–15:10</span> Coffee Break)
-
-[//]: # ()
-[//]: # (<span class="time">15:10–15:40</span> Invited Talk 4)
-
-[//]: # ()
-[//]: # (<span class="time">15:40–16:10</span> Invited Talk 5)
-
-[//]: # ()
-[//]: # (<span class="time">16:10–16:20</span> Closing Remarks)
+<hr />
