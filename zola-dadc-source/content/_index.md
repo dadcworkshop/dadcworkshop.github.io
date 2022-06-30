@@ -4,7 +4,7 @@ title = "The First Workshop on Dynamic Adversarial Data Collection (DADC)"
 # The First Workshop on Dynamic Adversarial Data Collection (DADC)
 -----------------------------------------------------------------------------
 
-The DADC Workshop '22 will be held on the **14<sup>th</sup> July, 2022** and is co-located with NAACL at the [Hyatt Regency](https://g.page/HyattRegencySeattle?share) in Seattle, Washington. Along with the announcement of our shared task results, we have a fantastic line up of keynote talks and a diverse and controversial panel discussion planned. It's going to be a great event, see you there!
+The DADC Workshop '22 will be held on the <span style="font-weight: bold;">14<sup>th</sup> July, 2022</span> and is co-located with NAACL at the [Hyatt Regency](https://g.page/HyattRegencySeattle?share) in Seattle, Washington. Along with the announcement of our shared task results, we have a fantastic line up of keynote talks and a diverse and controversial panel discussion planned. It's going to be a great event, see you there!
 
 ## <span style="color:#267CB9"> Invited Speakers </span>
 
