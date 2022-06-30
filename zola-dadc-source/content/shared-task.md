@@ -105,14 +105,13 @@ The team with the highest number of points overall will be the **DADC Shared Tas
 
 ## Important Dates
 
-| <!-- -->                                        | <!-- -->                                                                                                                           |
-|:------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
-| <del>April 25</del> **<ins>May 22</ins>, 2022** | [Team Registration](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform) Deadline  |
-| **May 2 - <del>15</del> <ins>22</ins>, 2022**   | Official Example Creation Window for [Track 1](/shared-task/#track-1-better-annotators)                                            |
-| **June 13, 2022**                               | [Track 2](/shared-task/#track-2-better-training-data) [Submission](https://forms.gle/icJ5cijHtd9b4UmL6) Deadline                   |
-| **June 13, 2022**                               | [Track 3](/shared-task/#track-3-better-models) Submission Deadline                                                                 |
-| **June 13, 2022**                               | System Description Paper (Optional) [Submission](https://forms.gle/iEq4nGp9miy81Qn7A) Deadline                                     |
-| **June 17, 2022**                               | System Description Paper Notification of Acceptance                                                                                |
-| **June 24, 2022**                               | System Description Paper Camera-Ready Deadline                                                                                     |
-| **July 1, 2022**                                | Results Announced                                                                                                                  |
-| **July 14, 2022**                               | Workshop Dates & Overall Winning Team Announcement 🏆                                                                              |
+| <!-- -->             | <!-- -->                                                                                                                          |
+|:---------------------|:----------------------------------------------------------------------------------------------------------------------------------|
+| **May 22, 2022**     | [Team Registration](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform) Deadline |
+| **May 2 - 22, 2022** | Official Example Creation Window for [Track 1](/shared-task/#track-1-better-annotators)                                           |
+| **June 13, 2022**    | [Track 2](/shared-task/#track-2-better-training-data) [Submission](https://forms.gle/icJ5cijHtd9b4UmL6) Deadline                  |
+| **June 13, 2022**    | [Track 3](/shared-task/#track-3-better-models) Submission Deadline                                                                |
+| **June 13, 2022**    | System Description Paper (Optional) [Submission](https://forms.gle/iEq4nGp9miy81Qn7A) Deadline                                    |
+| **June 17, 2022**    | System Description Paper Notification of Acceptance                                                                               |
+| **June 27, 2022**    | System Description Paper Camera-Ready Deadline                                                                                    |                                                                                                        |
+| **July 14, 2022**    | Workshop Dates & Result Announcement 🏆                                                                                           |

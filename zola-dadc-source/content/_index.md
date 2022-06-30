@@ -4,6 +4,114 @@ title = "The First Workshop on Dynamic Adversarial Data Collection (DADC)"
 # The First Workshop on Dynamic Adversarial Data Collection (DADC)
 -----------------------------------------------------------------------------
 
+The DADC Workshop '22 will be held on the 14<sup>th</sup> July, 2022 and is co-located with NAACL at the [Hyatt Regency](https://g.page/HyattRegencySeattle?share) in Seattle, Washington. Along with the announcement of our shared task results, we have a fantastic line up of keynote talks and a diverse and controversial panel discussion planned. It's going to be a great event, see you there!
+
+## <span style="color:#267CB9"> Invited Speakers </span>
+
+<div class="invited-speakers">
+
+### [Anna Rogers, University of Copenhagen](https://annargrs.github.io)
+#### What kinds of questions have we been asking? A taxonomy for QA/RC benchmarks
+
+{{ resize_image(path="static/img/anna-rogers.jpeg", width=100, height=100, op="scale") }}
+
+This talk provides an overview of the current landscape of resources for Question Answering and Reading comprehension, highlighting the current lacunae for future work. I will also present a new taxonomy of "skills" targeted by QA/RC datasets and discuss various ways in which questions may be unanswerable.
+
+<hr />
+
+
+### [Sam Bowman, Assistant Professor, New York University & Visiting Researcher (Sabbatical), Anthropic](https://cims.nyu.edu/~sbowman/)
+#### Why Adversarially-Collected Test Sets Don’t Work as Benchmarks
+
+{{ resize_image(path="static/img/sambowman.jpeg", width=100, height=100, op="fill") }}
+
+Dynamic and/or adversarial data collection can be quite useful as a way of collecting training data for machine-learning models, identifying the conditions under which these models fail, and conducting online head-to-head comparisons between models. However, it is essentially impossible to use these practices to build usable static benchmark datasets for use in evaluating or comparing future new models. I defend this point using a mix of conceptual and empirical points, focusing on the claims (i) that adversarial data collection can skew the distribution of phenomena such as to make it unrepresentative of the intended task, and (ii) that adversarial data collection can arbitrarily shift the rankings of models on its resulting test sets to disfavor systems that are qualitatively similar to the current state of the art.
+
+<hr />
+
+
+### [Jordan Boyd-Graber, Associate Professor, University of Maryland at College Park](http://users.umiacs.umd.edu/~jbg/)
+#### Incentives for Experts to Create Adversarial QA and Fact-Checking Examples
+
+{{ resize_image(path="static/img/jbg.png", width=100, height=100, op="scale") }}
+
+I'll discuss two examples of our work putting experienced writers in
+front of a retrieval-driven adversarial authoring system: question
+writing and fact-checking.  For question answering, we develop a
+retrieval-based adversarial authoring platform and create incentives
+to get people to use our system in the first place, write
+interesting questions humans can answer, and challenge a QA system.
+While the best humans lose to computer QA systems on normal questions,
+computers struggle to answer our adversarial questions.  We then turn
+to fact checking, creating a new game (Fool Me Twice) to solicit
+difficult-to-verify claims---that can be either true or false---and to
+test how difficult the claims are both for humans and computers.  We
+argue that the focus on retrieval is important for knowledge-based
+adversarial examples because it highlights diverse information,
+prevents frustration in authors, and takes advantage of users'
+expertise.
+
+<hr />
+
+
+### [Lora Aroyo, Research Scientist, Google](https://lora-aroyo.org)
+#### Data Excellence: Better Data for Better AI
+
+{{ resize_image(path="static/img/lora-aroyo.jpg", width=100, height=100, op="fill") }}
+
+The efficacy of machine learning (ML) models depends on both algorithms and data. Training data defines what we want our models to learn, and testing data provides the means by which their empirical progress is measured. Benchmark datasets define the entire world within which models exist and operate, yet research continues to focus on critiquing and improving the algorithmic aspect of the models rather than critiquing and improving the data with which our models operate. If “data is the new oil,” we are still missing work on the refineries by which the data itself could be optimized for more effective use. In this talk, I will discuss data excellence and lessons learned from software engineering to achieve the scare and rigor in assessing data quality.
+
+<hr />
+
+
+### [Sherry Tongshuang Wu, Assistant Professor, Carnegie Mellon University (CMU HCII)](https://homes.cs.washington.edu/~wtshuang/)
+#### Model-in-the-loop Data Collection: What Roles does the Model Play?
+
+{{ resize_image(path="static/img/sherry-wu.jpeg", width=100, height=100, op="fill") }}
+
+Assistive models have been shown useful for supporting humans in creating challenging datasets, but how exactly do they help? In this talk, I will discuss different roles of assistive models in counterfactual data collection (i.e., perturbing existing text inputs to gain insight into task model decision boundaries), and the characteristics associated with these roles. I will use three examples (CheckList, Polyjuice, Tailor) to demonstrate how our objectives shift when we perturb texts for evaluation, explanation, and improvement, and how that change the corresponding assistive models from enhancing human goals (requiring model controllability) to competing with human bias (requiring careful data reranking). I will conclude by exploring additional roles that these models can play to become more effective.
+
+<hr />
+
+</div>
+
+
+## <span style="color:#267CB9">Program (14<sup>th</sup> July, 2022)</span>
+
+<span class="time">09:00 – 09:10:</span> Opening remarks
+
+<span class="time">09:10 – 09:25:</span> Collaborative Progress: [MLCommons](https://mlcommons.org/) Introduction
+
+<span class="time">09:25 – 10:00:</span> Invited Talk 1: Anna Rogers
+
+<span class="time">10:00 – 10:35:</span> Invited Talk 2: Jordan Boyd-Graber
+
+<span class="time">10:35 – 10:50:</span> Coffee Break
+
+<span class="time">10:50 – 11:10:</span> Best Paper Talk: Margaret Li and Julian Michael
+
+<span class="time">11:10 – 11:45:</span> Invited Talk 3: Sam Bowman
+
+<span class="time">11:45 – 12:20:</span> Invited Talk 4: Lora Aroyo
+
+<span class="time">12:20 – 13:20:</span> Lunch
+
+<span class="time">13:20 – 13:55:</span> Invited Talk 5: Sherry Tongshuang Wu
+
+<span class="time">13:55 – 14:55:</span> Panel on The Future of Data Collection moderated by Adina Williams
+
+<span class="time">14:55 – 15:10:</span> Coffee Break
+
+<span class="time">15:10 – 15:20:</span> Shared Task Introduction
+
+<span class="time">15:20 – 15:40:</span> Shared Task Winners' Presentations
+
+<span class="time">15:40 – 16:50:</span> Poster Session
+
+<span class="time">16:50 – 17:00:</span> Closing Remarks
+
+<hr />
+
 ## Latest News: 
 * **Jun 9, 2022**: The Shared Task [Track 2](/shared-task/#track-2-better-training-data) dataset submission form is now open at [https://forms.gle/icJ5cijHtd9b4UmL6](https://forms.gle/icJ5cijHtd9b4UmL6).
 * **Jun 8, 2022**: The Shared Task System Description Papers submission form is now open at [https://forms.gle/iEq4nGp9miy81Qn7A](https://forms.gle/iEq4nGp9miy81Qn7A).
@@ -47,37 +155,8 @@ Papers should follow the official [*ACL Paper Styles](https://github.com/acl-org
 For more information, refer to the [Call for Papers](/call-for-papers/) page.
 <br />
 
-## Important Dates (Paper Submission)
-
-| <!-- -->                                       | <!-- -->                                             |
-|:-----------------------------------------------|:-----------------------------------------------------|
-| **February 14, 2022**                          | First [Call for Workshop Papers](call-for-papers/)   |
-| **April** <del>8</del> **<ins>15</ins>, 2022** | Submission deadline (papers requiring peer review)   |
-| **May** <del>1</del> **<ins>6</ins>, 2022**    | Submission deadline (papers with ARR reviews)        |
-| **May** <del>1</del> **<ins>6</ins>, 2022**    | Submission deadline (non-archival papers)            |
-| **May** <del>6</del> **<ins>16</ins>, 2022**   | Notification of Acceptance                           |
-| **May** <del>20</del> **<ins>27</ins>, 2022**  | Camera-ready Papers Due                              |
-| **July 14, 2022**                              | Workshop Date at NAACL 2022                          |
-
-## Important Dates (Shared Task)
-
-| <!-- -->                                        | <!-- -->                                                                                                                           |
-|:------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
-| <del>April 25</del> **<ins>May 22</ins>, 2022** | [Team Registration](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform) Deadline  |
-| **May 2 - <del>15</del> <ins>22</ins>, 2022**   | Official Example Creation Window for [Track 1](/shared-task/#track-1-better-annotators)                                            |
-| **June 13, 2022**                               | [Track 2](/shared-task/#track-2-better-training-data) [Submission](https://forms.gle/icJ5cijHtd9b4UmL6) Deadline                   |
-| **June 13, 2022**                               | [Track 3](/shared-task/#track-3-better-models) Submission Deadline                                                                 |
-| **June 13, 2022**                               | System Description Paper (Optional) [Submission](https://forms.gle/iEq4nGp9miy81Qn7A) Deadline                                     |
-| **June 17, 2022**                               | System Description Paper Notification of Acceptance                                                                                |                                                                                                                 |
-| **June 24, 2022**                               | System Description Paper Camera-Ready Deadline                                                                                     |
-| **July 1, 2022**                                | Results Announced                                                                                                                  |
-| **July 14, 2022**                               | Workshop Dates & Overall Winning Team Announcement 🏆                                                                              |
-
-<br />
-
 
 ## Organizers
-
 
 ### Core Team
 
@@ -94,53 +173,76 @@ For more information, refer to the [Call for Papers](/call-for-papers/) page.
 * [Adina Williams](https://wp.nyu.edu/adinawilliams/)
 * [Douwe Kiela](https://douwekiela.github.io/)
 
-[//]: # (### Program Committee)
+### Program Committee
 
-[//]: # ()
-[//]: # (* Shi Feng)
-
-[//]: # (* Paul Röttger)
+* Giorgos Vernikos, EPFL & HEIG-VD
+* John P. Lalor, University of Notre Dame
+* Maharshi Gor, University of Maryland, College Park
+* Pasquale Minervini, University College London
+* Paul Röttger, University of Oxford
+* Shi Feng, University of Maryland, College Park
+* Unso Eun Seo Jo, Stanford University & HuggingFace
 
 [//]: # (* Chen Zhao)
 
+[//]: # ()
 [//]: # (* Maharshi Gor)
 
+[//]: # ()
 [//]: # (* Johnny Wei)
 
+[//]: # ()
 [//]: # (* Maximilian Mozes)
 
+[//]: # ()
 [//]: # (* Joe Barrow)
 
+[//]: # ()
 [//]: # (* Yixin Nie)
 
+[//]: # ()
 [//]: # (* Candace Ross)
 
+[//]: # ()
 [//]: # (* Mohit Bansal)
 
+[//]: # ()
 [//]: # (* Bertram Vidgen)
 
+[//]: # ()
 [//]: # (* Scott Hale)
 
+[//]: # ()
 [//]: # (* Zeerak Talat)
 
+[//]: # ()
 [//]: # (* Amanpreet Singh)
 
+[//]: # ()
 [//]: # (* Atticus Geiger)
 
+[//]: # ()
 [//]: # (* Christopher Potts)
 
+[//]: # ()
 [//]: # (* Ethan Perez)
 
+[//]: # ()
 [//]: # (* Scott Yih)
 
+[//]: # ()
 [//]: # (* Sebastian Riedel)
 
+[//]: # ()
 [//]: # (* Eric Wallace)
 
+[//]: # ()
 [//]: # (* Joao Sedoc)
 
+[//]: # ()
 [//]: # (* John P. Lalor)
 
+[//]: # ()
 [//]: # (* Phu Mon Htut)
 
 ## Contact
