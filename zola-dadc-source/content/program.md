@@ -79,11 +79,11 @@ Assistive models have been shown useful for supporting humans in creating challe
 
 <span class="time">09:00 – 09:10:</span> Opening remarks
 
-<span class="time">09:10 – 09:25:</span> Collaborative Progress: [MLCommons](https://mlcommons.org/) Introduction
+<span class="time">09:10 – 09:45:</span> Invited Talk 1: Anna Rogers
 
-<span class="time">09:25 – 10:00:</span> Invited Talk 1: Anna Rogers
+<span class="time">09:45 – 10:20:</span> Invited Talk 2: Jordan Boyd-Graber
 
-<span class="time">10:00 – 10:35:</span> Invited Talk 2: Jordan Boyd-Graber
+<span class="time">10:20 – 10:35:</span> Collaborative Progress: [MLCommons](https://mlcommons.org/) Introduction
 
 <span class="time">10:35 – 10:50:</span> Coffee Break
 
@@ -91,21 +91,25 @@ Assistive models have been shown useful for supporting humans in creating challe
 
 <span class="time">11:10 – 11:45:</span> Invited Talk 3: Sam Bowman
 
-<span class="time">11:45 – 12:20:</span> Invited Talk 4: Lora Aroyo
+<span class="time">11:45 – 12:20:</span> Invited Talk 4: Sherry Tongshuang Wu
 
 <span class="time">12:20 – 13:20:</span> Lunch
 
-<span class="time">13:20 – 13:55:</span> Invited Talk 5: Sherry Tongshuang Wu
+<span class="time">13:20 – 13:55:</span> Invited Talk 5: Lora Aroyo
 
 <span class="time">13:55 – 14:55:</span> Panel on The Future of Data Collection moderated by Adina Williams
 
 <span class="time">14:55 – 15:10:</span> Coffee Break
 
-<span class="time">15:10 – 15:20:</span> Shared Task Introduction
+<span class="time">15:10 – 15:20:</span> Shared Task Introduction: Max Bartolo
 
-<span class="time">15:20 – 15:40:</span> Shared Task Winners' Presentations
+<span class="time">15:20 – 15:30:</span> Shared Task Presentations: Team Fireworks
 
-<span class="time">15:40 – 16:50:</span> Poster Session
+<span class="time">15:30 – 15:40:</span> Shared Task Presentations: Team Longhorns
+
+<span class="time">15:40 – 15:50:</span> Shared Task Presentations: Team Supersamplers
+
+<span class="time">15:50 – 16:50:</span> Poster Session
 
 <span class="time">16:50 – 17:00:</span> Closing Remarks
 
