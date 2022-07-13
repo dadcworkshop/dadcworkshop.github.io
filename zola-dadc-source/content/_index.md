@@ -98,7 +98,7 @@ Assistive models have been shown useful for supporting humans in creating challe
 
 <span class="time">13:20 – 13:55:</span> Invited Talk 5: Lora Aroyo
 
-<span class="time">13:55 – 14:55:</span> Panel on The Future of Data Collection moderated by Adina Williams
+<span class="time">13:55 – 14:55:</span> Panel on The Future of Data Collection moderated by [Adina Williams](https://wp.nyu.edu/adinawilliams/). Panelists: [Anna Rogers](https://annargrs.github.io/), [Jordan Boyd-Graber](http://users.umiacs.umd.edu/~jbg/), [Sam Bowman](https://cims.nyu.edu/~sbowman/), [Sherry Tongshuang Wu](https://homes.cs.washington.edu/~wtshuang/), [Lora Aroyo](https://lora-aroyo.org/), [Douwe Kiela](https://douwekiela.github.io/) & [Swabha Swayamdipta](https://swabhs.com/).
 
 <span class="time">14:55 – 15:10:</span> Coffee Break
 
@@ -113,6 +113,8 @@ Assistive models have been shown useful for supporting humans in creating challe
 <span class="time">15:50 – 16:50:</span> Poster Session
 
 <span class="time">16:50 – 17:00:</span> Closing Remarks
+
+<span class="time">18:30 – 21:30:</span> The DADC Social Event
 
 <hr />
 
