@@ -6,6 +6,48 @@ title = "The First Workshop on Dynamic Adversarial Data Collection (DADC)"
 
 The DADC Workshop '22 will be held on the <span style="font-weight: bold;">14<sup>th</sup> July, 2022</span> and is co-located with NAACL at the [Hyatt Regency](https://g.page/HyattRegencySeattle?share) in Seattle, Washington. Along with the announcement of our shared task results, we have a fantastic line up of keynote talks and a diverse and controversial panel discussion planned. It's going to be a great event, see you there!
 
+## <span style="color:#267CB9">Program (14<sup>th</sup> July, 2022)</span>
+
+<span class="time">09:00 – 09:10:</span> Opening remarks
+
+<span class="time">09:10 – 09:45:</span> Invited Talk 1: Anna Rogers
+
+<span class="time">09:45 – 10:20:</span> Invited Talk 2: Jordan Boyd-Graber
+
+<span class="time">10:20 – 10:35:</span> Collaborative Progress: [MLCommons](https://mlcommons.org/) Introduction
+
+<span class="time">10:35 – 10:50:</span> Coffee Break
+
+<span class="time">10:50 – 11:10:</span> Best Paper Talk: Margaret Li and Julian Michael
+
+<span class="time">11:10 – 11:45:</span> Invited Talk 3: Sam Bowman
+
+<span class="time">11:45 – 12:20:</span> Invited Talk 4: Sherry Tongshuang Wu
+
+<span class="time">12:20 – 13:20:</span> Lunch
+
+<span class="time">13:20 – 13:55:</span> Invited Talk 5: Lora Aroyo
+
+<span class="time">13:55 – 14:55:</span> Panel on The Future of Data Collection moderated by [Adina Williams](https://wp.nyu.edu/adinawilliams/). Panelists: [Anna Rogers](https://annargrs.github.io/), [Jordan Boyd-Graber](http://users.umiacs.umd.edu/~jbg/), [Sam Bowman](https://cims.nyu.edu/~sbowman/), [Sherry Tongshuang Wu](https://homes.cs.washington.edu/~wtshuang/), [Lora Aroyo](https://lora-aroyo.org/), [Douwe Kiela](https://douwekiela.github.io/) & [Swabha Swayamdipta](https://swabhs.com/).
+
+<span class="time">14:55 – 15:10:</span> Coffee Break
+
+<span class="time">15:10 – 15:20:</span> Shared Task Introduction: Max Bartolo
+
+<span class="time">15:20 – 15:30:</span> Shared Task Presentations: Team Fireworks
+
+<span class="time">15:30 – 15:40:</span> Shared Task Presentations: Team Longhorns
+
+<span class="time">15:40 – 15:50:</span> Shared Task Presentations: Team Supersamplers
+
+<span class="time">15:50 – 16:50:</span> Poster Session
+
+<span class="time">16:50 – 17:00:</span> Closing Remarks
+
+<span class="time">18:30 – 21:30:</span> The DADC Social Event
+
+<hr />
+
 ## <span style="color:#267CB9"> Invited Speakers </span>
 
 <div class="invited-speakers">
@@ -75,48 +117,6 @@ Assistive models have been shown useful for supporting humans in creating challe
 
 </div>
 
-
-## <span style="color:#267CB9">Program (14<sup>th</sup> July, 2022)</span>
-
-<span class="time">09:00 – 09:10:</span> Opening remarks
-
-<span class="time">09:10 – 09:45:</span> Invited Talk 1: Anna Rogers
-
-<span class="time">09:45 – 10:20:</span> Invited Talk 2: Jordan Boyd-Graber
-
-<span class="time">10:20 – 10:35:</span> Collaborative Progress: [MLCommons](https://mlcommons.org/) Introduction
-
-<span class="time">10:35 – 10:50:</span> Coffee Break
-
-<span class="time">10:50 – 11:10:</span> Best Paper Talk: Margaret Li and Julian Michael
-
-<span class="time">11:10 – 11:45:</span> Invited Talk 3: Sam Bowman
-
-<span class="time">11:45 – 12:20:</span> Invited Talk 4: Sherry Tongshuang Wu
-
-<span class="time">12:20 – 13:20:</span> Lunch
-
-<span class="time">13:20 – 13:55:</span> Invited Talk 5: Lora Aroyo
-
-<span class="time">13:55 – 14:55:</span> Panel on The Future of Data Collection moderated by [Adina Williams](https://wp.nyu.edu/adinawilliams/). Panelists: [Anna Rogers](https://annargrs.github.io/), [Jordan Boyd-Graber](http://users.umiacs.umd.edu/~jbg/), [Sam Bowman](https://cims.nyu.edu/~sbowman/), [Sherry Tongshuang Wu](https://homes.cs.washington.edu/~wtshuang/), [Lora Aroyo](https://lora-aroyo.org/), [Douwe Kiela](https://douwekiela.github.io/) & [Swabha Swayamdipta](https://swabhs.com/).
-
-<span class="time">14:55 – 15:10:</span> Coffee Break
-
-<span class="time">15:10 – 15:20:</span> Shared Task Introduction: Max Bartolo
-
-<span class="time">15:20 – 15:30:</span> Shared Task Presentations: Team Fireworks
-
-<span class="time">15:30 – 15:40:</span> Shared Task Presentations: Team Longhorns
-
-<span class="time">15:40 – 15:50:</span> Shared Task Presentations: Team Supersamplers
-
-<span class="time">15:50 – 16:50:</span> Poster Session
-
-<span class="time">16:50 – 17:00:</span> Closing Remarks
-
-<span class="time">18:30 – 21:30:</span> The DADC Social Event
-
-<hr />
 
 ## Latest News: 
 * **Jun 9, 2022**: The Shared Task [Track 2](/shared-task/#track-2-better-training-data) dataset submission form is now open at [https://forms.gle/icJ5cijHtd9b4UmL6](https://forms.gle/icJ5cijHtd9b4UmL6).
