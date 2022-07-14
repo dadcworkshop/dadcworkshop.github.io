@@ -133,35 +133,51 @@ Assistive models have been shown useful for supporting humans in creating challe
 * **February 14, 2022**: See our [Call for Papers here](/call-for-papers/)!
 
 ## The DADC Shared Task
-The DADC Shared Task this year will focus on the Extractive Question Answering (QA) task. We have three (3) tracks focusing on better annotators, better training data and better models.
+The DADC Shared Task this year will focus on the Extractive Question Answering (QA) task. We have tracks focusing on better annotators, better training data and better models.
 
 **Specific details and a call for participation can be found [here](/shared-task/). Here's a quick overview:** 
 
-### Track 1: Better Annotators
-Participants will submit 100 "official" question answering (QA) examples through the [Dynabench](https://dynabench.org/tasks/qa) platform. The collected dataset will form parts of the evaluation set for Tracks 2 and 3. The objective is to find as many model-fooling examples as possible -- the winning team will be the one with the highest validated model error rate (vMER).
+[//]: # (### Track 1: Better Annotators)
 
-If you think you have what it takes to fool our best AI model, [sign up](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform) today!
+[//]: # (Participants will submit 100 "official" question answering &#40;QA&#41; examples through the [Dynabench]&#40;https://dynabench.org/tasks/qa&#41; platform. The collected dataset will form parts of the evaluation set for Tracks 2 and 3. The objective is to find as many model-fooling examples as possible -- the winning team will be the one with the highest validated model error rate &#40;vMER&#41;.)
 
-### Track 2: Better Training Data
-In this data-centric track, participants will submit 10,000 **training** examples (in SQuAD v1.1 JSON format, see [https://huggingface.co/datasets/adversarial_qa#dataset-structure](https://huggingface.co/datasets/adversarial_qa#dataset-structure)). These examples can be selected from existing datasets, expert-annotated, crowdsourced, or synthetically-generated. The workshop organisers will then train ELECTRA-Large models and evaluate them on the data collected in Track 1. The team with the highest word-overlap F1 score on the test set will be considered the winner.    
+[//]: # ()
+[//]: # (If you think you have what it takes to fool our best AI model, [sign up]&#40;https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform&#41; today!)
 
-### Track 3: Better Models
-The workshop organisers have pre-specified a set of evaluation weights for the [Dynabench](https://dynabench.org/tasks/qa) QA leaderboard. Participants can train any models on any data and submit their models directly to [Dynabench](https://dynabench.org/tasks/qa). The team with the highest **dynascore** will be considered the winner.
+[//]: # ()
+[//]: # (### Track 2: Better Training Data)
 
-### Overall
-Teams can choose to participate on individual tracks only. To further encourage the formation of diverse teams working on a range of challenges, we will also have an overall DADC Shared Task Winning Team based on performance across all 3 tracks.
+[//]: # (In this data-centric track, participants will submit 10,000 **training** examples &#40;in SQuAD v1.1 JSON format, see [https://huggingface.co/datasets/adversarial_qa#dataset-structure]&#40;https://huggingface.co/datasets/adversarial_qa#dataset-structure&#41;&#41;. These examples can be selected from existing datasets, expert-annotated, crowdsourced, or synthetically-generated. The workshop organisers will then train ELECTRA-Large models and evaluate them on the data collected in Track 1. The team with the highest word-overlap F1 score on the test set will be considered the winner.    )
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform" method="get" target="_blank"><button class="btn btn-success" type="submit">Sign up</button></form>
-<br />
+[//]: # ()
+[//]: # (### Track 3: Better Models)
 
-## Submission Information
+[//]: # (The workshop organisers have pre-specified a set of evaluation weights for the [Dynabench]&#40;https://dynabench.org/tasks/qa&#41; QA leaderboard. Participants can train any models on any data and submit their models directly to [Dynabench]&#40;https://dynabench.org/tasks/qa&#41;. The team with the highest **dynascore** will be considered the winner.)
 
-The [OpenReview DADC workshop page](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/DADC) is now open and accepting paper submissions. 
-The paper commitment page for work already having ARR reviews will be coming shortly.
-Papers should follow the official [*ACL Paper Styles](https://github.com/acl-org/acl-style-files) and [paper formatting guidelines](https://acl-org.github.io/ACLPUB/formatting.html#paper-format) (also see [Overleaf template](https://www.overleaf.com/read/crtcwgxzjskr)).
+[//]: # ()
+[//]: # (### Overall)
 
-For more information, refer to the [Call for Papers](/call-for-papers/) page.
-<br />
+[//]: # (Teams can choose to participate on individual tracks only. To further encourage the formation of diverse teams working on a range of challenges, we will also have an overall DADC Shared Task Winning Team based on performance across all 3 tracks.)
+
+[//]: # ()
+[//]: # (<form action="https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform" method="get" target="_blank"><button class="btn btn-success" type="submit">Sign up</button></form>)
+
+[//]: # (<br />)
+
+[//]: # ()
+[//]: # (## Submission Information)
+
+[//]: # ()
+[//]: # (The [OpenReview DADC workshop page]&#40;https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/DADC&#41; is now open and accepting paper submissions. )
+
+[//]: # (The paper commitment page for work already having ARR reviews will be coming shortly.)
+
+[//]: # (Papers should follow the official [*ACL Paper Styles]&#40;https://github.com/acl-org/acl-style-files&#41; and [paper formatting guidelines]&#40;https://acl-org.github.io/ACLPUB/formatting.html#paper-format&#41; &#40;also see [Overleaf template]&#40;https://www.overleaf.com/read/crtcwgxzjskr&#41;&#41;.)
+
+[//]: # ()
+[//]: # (For more information, refer to the [Call for Papers]&#40;/call-for-papers/&#41; page.)
+
+[//]: # (<br />)
 
 
 ## Organizers

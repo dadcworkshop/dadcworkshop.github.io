@@ -62,46 +62,79 @@ To facilitate participation in this task, **we make a variety of resources avail
 #### Submission Instructions
 * For Track 2 participation, upload your 10,000 training example dataset at [https://forms.gle/icJ5cijHtd9b4UmL6](https://forms.gle/icJ5cijHtd9b4UmL6)
 
-### Track 3: Better Models
-The workshop organisers have pre-specified a set of evaluation weights for the [Dynabench](https://dynabench.org/tasks/qa) QA leaderboard. Participants can train any models on any data and submit their models directly to [Dynabench](https://dynabench.org/tasks/qa). The team with the highest **dynascore** will be considered the winner.
+[//]: # (### Track 3: Better Models)
 
-#### Participation Instructions
-1. Create an "official" Dynabench account for your team (and share your account username with us when filling out the [Team Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform)).
-1. You may train any models on whatever data you want.
-1. Models should be submitted directly to [Dynabench](https://dynabench.org/tasks/qa) using [Dynalab](https://github.com/facebookresearch/dynalab).
-1. The official **dynaboard evaluation weights** we will use are:
-    * QA F1: 4
-        * aqa-r1-test: 5
-        * dadc-track-1-test: 4
-        * squad-dev: 3
-    * Throughput: 1
-    * Memory: 1
-    * Fairness: 1
-    * Robustness: 1
-1. Kindly take note of the weighting allocated to the *Track 1 Test Dataset*, for which you will **NOT** be provided with a *validation* set.
-1. The team with the highest **dynascore** will be considered the winner.
+[//]: # (The workshop organisers have pre-specified a set of evaluation weights for the [Dynabench]&#40;https://dynabench.org/tasks/qa&#41; QA leaderboard. Participants can train any models on any data and submit their models directly to [Dynabench]&#40;https://dynabench.org/tasks/qa&#41;. The team with the highest **dynascore** will be considered the winner.)
 
-The workshop organisers refer the right to modify the official evaluation weights if required.
+[//]: # ()
+[//]: # (#### Participation Instructions)
 
-### Overall
-Teams can choose to participate on individual tracks only. To further encourage the formation of diverse teams working on a range of challenges, we will also have an overall DADC Shared Task Winning Team based on performance across all 3 tracks.
+[//]: # (1. Create an "official" Dynabench account for your team &#40;and share your account username with us when filling out the [Team Registration Form]&#40;https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform&#41;&#41;.)
 
-Teams awarded points based on their position in each track:
+[//]: # (1. You may train any models on whatever data you want.)
 
-| Team Rank   | Points          |
-|:------------|:----------------|
-| 1st         | **25 points**   |
-| 2nd         | **18 points**   |
-| 3rd         | **15 points**   |
-| 4th         | **12 points**   |
-| 5th         | **10 points**   |
-| 6th         | **8 points**    |
-| 7th         | **6 points**    |
-| 8th         | **4 points**    |
-| 9th         | **2 points**    |
-| 10th        | **1 point**     |
+[//]: # (1. Models should be submitted directly to [Dynabench]&#40;https://dynabench.org/tasks/qa&#41; using [Dynalab]&#40;https://github.com/facebookresearch/dynalab&#41;.)
 
-The team with the highest number of points overall will be the **DADC Shared Task Winning Team** 🏆.
+[//]: # (1. The official **dynaboard evaluation weights** we will use are:)
+
+[//]: # (    * QA F1: 4)
+
+[//]: # (        * aqa-r1-test: 5)
+
+[//]: # (        * dadc-track-1-test: 4)
+
+[//]: # (        * squad-dev: 3)
+
+[//]: # (    * Throughput: 1)
+
+[//]: # (    * Memory: 1)
+
+[//]: # (    * Fairness: 1)
+
+[//]: # (    * Robustness: 1)
+
+[//]: # (1. Kindly take note of the weighting allocated to the *Track 1 Test Dataset*, for which you will **NOT** be provided with a *validation* set.)
+
+[//]: # (1. The team with the highest **dynascore** will be considered the winner.)
+
+[//]: # ()
+[//]: # (The workshop organisers refer the right to modify the official evaluation weights if required.)
+
+[//]: # ()
+[//]: # (### Overall)
+
+[//]: # (Teams can choose to participate on individual tracks only. To further encourage the formation of diverse teams working on a range of challenges, we will also have an overall DADC Shared Task Winning Team based on performance across all 3 tracks.)
+
+[//]: # ()
+[//]: # (Teams awarded points based on their position in each track:)
+
+[//]: # ()
+[//]: # (| Team Rank   | Points          |)
+
+[//]: # (|:------------|:----------------|)
+
+[//]: # (| 1st         | **25 points**   |)
+
+[//]: # (| 2nd         | **18 points**   |)
+
+[//]: # (| 3rd         | **15 points**   |)
+
+[//]: # (| 4th         | **12 points**   |)
+
+[//]: # (| 5th         | **10 points**   |)
+
+[//]: # (| 6th         | **8 points**    |)
+
+[//]: # (| 7th         | **6 points**    |)
+
+[//]: # (| 8th         | **4 points**    |)
+
+[//]: # (| 9th         | **2 points**    |)
+
+[//]: # (| 10th        | **1 point**     |)
+
+[//]: # ()
+[//]: # (The team with the highest number of points overall will be the **DADC Shared Task Winning Team** 🏆.)
 
 ## Important Dates
 
